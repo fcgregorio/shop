@@ -13,31 +13,30 @@ layout: default
   <div class="row">
     <div class="col-6">
       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-    <div class="carousel-inner">
-      {% for image in page.images %}
-        <div class="carousel-item {% if forloop.first == true %}active{% endif %}">
-          <img class="d-block w-100" src="{{ site.baseurl }}/assets/images/products/{{ image }}" alt="">
+        <div class="carousel-inner">
+          {% for image in page.images %}
+            <div class="carousel-item {% if forloop.first == true %}active{% endif %}">
+              <img class="d-block w-100" src="{{ site.baseurl }}/assets/images/products/{{ image }}" alt="">
+            </div>
+          {% endfor %}
         </div>
-      {% endfor %}
+        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
     </div>
-    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
+    <div class="col-6">
+      <h1>{{ page.name }}</h1>
+      <h3>{{ page.brand }}</h3>
+      <h3>SKU: {{ page.sku }}</h3>
+      <h3>{{ page.price }}</h3>
     </div>
-    <div class="col-6"></div>
   </div>
-
-  <h1>{{ page.name }}</h1>
-  <h3>{{ page.brand }}</h3>
-  <h3>SKU: {{ page.sku }}</h3>
-  <h3>{{ page.price }}</h3>
-
   <div class="card text-center mx-lg-5">
     <div class="card-header">
       <ul class="nav nav-tabs card-header-tabs" role="tablist">
