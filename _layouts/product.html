@@ -10,6 +10,10 @@ layout: default
     </ol>
   </nav>
 
+  {% for image in page.images %}
+    <img src="{{ image }}">
+  {% endfor %}
+
   <h1>{{ page.name }}</h1>
   <h3>{{ page.brand }}</h3>
   <h3>SKU: {{ page.sku }}</h3>
