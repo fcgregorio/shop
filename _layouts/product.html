@@ -12,11 +12,11 @@ layout: default
 
   <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
-      <div class="carousel-item {% if forloop.first == true %}active{% endif %}">
-        {% for image in page.images %}
+      {% for image in page.images %}
+        <div class="carousel-item {% if forloop.first == true %}active{% endif %}">
           <img class="d-block w-100" src="{{ site.baseurl }}/assets/images/products/{{ image }}" alt="">
-        {% endfor %}
-      </div>
+        </div>
+      {% endfor %}
     </div>
     <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
