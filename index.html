@@ -1,7 +1,6 @@
 ---
 layout: default
-permalink: /
 ---
 {% for product in site.products %}
-  <a href="{{ product.url }}">{{ product.name }}</a>
+  <a href="{{ site.url }}{{ product.url }}">{{ product.name }}</a>
 {% endfor %}

@@ -8,3 +8,6 @@ collections_dir: collections
 collections:
   products:
     output: true
+
+url: https://fcgregorio.github.io
+baseurl: /shop
