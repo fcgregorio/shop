@@ -11,7 +11,7 @@ layout: default
   </nav>
 
   {% for image in page.images %}
-    <img src="{{ image }}">
+    <img src="{{ site.baseurl }}/assets/images/products/{{ image }}">
   {% endfor %}
 
   <h1>{{ page.name }}</h1>
