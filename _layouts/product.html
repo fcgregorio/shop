@@ -10,7 +10,9 @@ layout: default
     </ol>
   </nav>
 
-  <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" style="max-height: 550px;">
+  <div class="row">
+    <div class="col">
+      <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
       {% for image in page.images %}
         <div class="carousel-item {% if forloop.first == true %}active{% endif %}">
@@ -26,6 +28,8 @@ layout: default
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="sr-only">Next</span>
     </a>
+  </div>
+    </div>
   </div>
 
   <h1>{{ page.name }}</h1>
