@@ -1,13 +1,20 @@
 ---
 layout: default
 ---
-{{ page.name }}
-{{ page.brand }}
-{{ page.sku }}
-{{ page.price }}
-{{ page.category }}
-{{ page.subcategory }}
 <div class="container">
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="#">{{ page.category }}</a></li>
+      <li class="breadcrumb-item"><a href="#">{{ page.subcategory }}</a></li>
+      <li class="breadcrumb-item active" aria-current="page">{{ page.sku }}</li>
+    </ol>
+  </nav>
+
+  <h1>{{ page.name }}</h1>
+  <h3>{{ page.brand }}</h3>
+  <h3>SKU: {{ page.sku }}</h3>
+  <h3>{{ page.price }}</h3>
+
   <div class="card text-center mx-lg-5">
     <div class="card-header">
       <ul class="nav nav-tabs card-header-tabs" role="tablist">
