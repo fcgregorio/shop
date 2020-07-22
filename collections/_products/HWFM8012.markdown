@@ -8,48 +8,48 @@ category: Washing Machines
 subcategory: Front Load Washing Machines
 details:
   Specifications:
-    Basic Data:
-      Cabinet Colour: White
-      Display/Colour: LED/Red
-      Built in/Free standing: Free Standing
-      Water Pressure (Mpa): 0.1-1
-      Supply Voltage (V/Hz): 220-240/50
-      Washing capacity (KG): 8
-      Max Temperature Option (℃): 95
-      Max Spin Speed Option.(rpm): 1200
-    Safety Systems:
-      Anti-foam sensor system: yes
-      Electronic Spin Speed Management: yes
-      Balance control: yes
-    Programs:
-      Cotton: yes
-      Cotton Eco: yes
-      Synthetics: yes
-      Silk/Delicate: yes
-      Wool: yes
-      Mix: yes
-      Sportswear: yes
-      Shirts: yes
-      Skin Care: yes
-      Dark Wash: yes
-      Duvet: yes
-      Quick: yes
-      Rinse+Spin: yes
-      Spin: yes
-      Drum Clean: yes
-    Features:
-      Number Programs: 15
-      Snowflake Drum: yes
-      Child Lock: yes
-      Time Delay: yes
-      Tub/Drum Material: Plastic/Stainless Steel
-    Performance:
-      Energy Rating: 4 Star - 310kWh/365 Uses
-      Water Rating: 4 Star - 82Lt Per Wash - C01665
-    Dimensions:
-      Net Dimensions WxDxH (mm): 595 X 600 X 850
-      Packing Dimensions (Shrink Film) WxDxH (mm): 650 X 645 X 885
-      Warranty: 3 Years
+    Basic Data: ~
+    Cabinet Colour: White
+    Display/Colour: LED/Red
+    Built in/Free standing: Free Standing
+    Water Pressure (Mpa): 0.1-1
+    Supply Voltage (V/Hz): 220-240/50
+    Washing capacity (KG): 8
+    Max Temperature Option (℃): 95
+    Max Spin Speed Option.(rpm): 1200
+    Safety Systems: ~
+    Anti-foam sensor system: yes
+    Electronic Spin Speed Management: yes
+    Balance control: yes
+    Programs: ~
+    Cotton: yes
+    Cotton Eco: yes
+    Synthetics: yes
+    Silk/Delicate: yes
+    Wool: yes
+    Mix: yes
+    Sportswear: yes
+    Shirts: yes
+    Skin Care: yes
+    Dark Wash: yes
+    Duvet: yes
+    Quick: yes
+    Rinse+Spin: yes
+    Spin: yes
+    Drum Clean: yes
+    Features: ~
+    Number Programs: 15
+    Snowflake Drum: yes
+    Child Lock: yes
+    Time Delay: yes
+    Tub/Drum Material: Plastic/Stainless Steel
+    Performance: ~
+    Energy Rating: 4 Star - 310kWh/365 Uses
+    Water Rating: 4 Star - 82Lt Per Wash - C01665
+    Dimensions: ~
+    Net Dimensions WxDxH (mm): 595 X 600 X 850
+    Packing Dimensions (Shrink Film) WxDxH (mm): 650 X 645 X 885
+    Warranty: 3 Years
   Additional Information:
     Weight: 86 kg
     Dimensions: 65 × 64.5 × 88.5 cm
