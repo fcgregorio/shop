@@ -23,8 +23,12 @@ layout: default
               <tbody>
                 {% for attributes in detail[1] %}
                   <tr>
-                    <th scope="row" {% unless attributes[1] %}colspan="2"{% endunless %}>{{ attributes[0] }}</th>
-                    <td>{{ attributes[1] }}</td>
+                    {% if attributes[1] %}
+                      <th scope="row">{{ attributes[0] }}</th>
+                      <td>{{ attributes[1] }}</td>
+                    {% else %}
+                      <th scope="row" colspan="2">{{ attributes[0] }}</th>
+                    {% endif %}
                   </tr>
                 {% endfor %}
               </tbody>
