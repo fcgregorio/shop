@@ -2,5 +2,5 @@
 layout: default
 ---
 {% for product in site.products %}
-  <a href="{{ site.url }}{{ site.baseurl }}{{ product.url }}">{{ product.name }}</a>
+  {% include product_card.html product=product %}
 {% endfor %}
