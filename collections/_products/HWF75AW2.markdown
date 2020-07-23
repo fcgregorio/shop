@@ -22,7 +22,7 @@ details:
     Specifications: ~
     Washer dry load capacity (KG): 7.5
     Energy rating: 3.5 star
-    Water rating (WELS): 4.5 Star, 64Lt Used Per Wash – WELS Product Registration Number: C01639
+    Water rating (WELS): "4.5 Star, 64Lt Used Per Wash – WELS Product Registration Number: C01639"
     Number of Program cycles: 16
     Spin speed (max, rpm): 1200
     Long lasting Anti-Bacterial Treated door seal: Yes
