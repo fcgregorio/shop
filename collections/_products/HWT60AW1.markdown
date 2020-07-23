@@ -11,12 +11,12 @@ details:
     Features: ~
     Program Cycles: 8
     Spin Speed (max, rpm): 650
-    Wash Action: Pulsating 
+    Wash Action: Pulsating
     Progress Indicator: yes
     Soft Close Lid: yes
     Child Lock: yes
     Memory Program: yes
-    Lid: One Piece Tempered Glass 
+    Lid: One Piece Tempered Glass
     Delay Start: yes
     Adjustable Front Feet: yes
     Lint Filter: yes
