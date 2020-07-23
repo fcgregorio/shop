@@ -28,7 +28,7 @@ details:
     Washer dry load capacity (KG): 6
     Energy rating: 2
     Water rating (WELS): "3.5 Star, 73Lt Used Per Wash – WELS Product Registration Number : C01352"
-    Number of Program cycles 8
+    Number of Program cycles: 8
     Spin speed (max, rpm): 650
   Additional Information:
     Weight: 38 kg
