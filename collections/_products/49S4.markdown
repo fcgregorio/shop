@@ -1,0 +1,39 @@
+---
+layout: product
+name: Hisense 49S4 49inch Smart LED TV
+brand: Hisense
+sku: 49S4
+price: $599
+category: Televisions
+subcategory: Full HD Televisions
+details:
+  Description:
+    Manufacturer Model: 49S4
+    Image Display: ~
+    Screen size (rounded to nearest integer): 49inch
+    Display technology: LCD/LED
+    Colour depth: 8bit + FRC
+    Smooth motion rate: 50
+    Viewing Angle (Horiz / Vert): 178/178
+    Smart TV: ~
+    Smart TV: VIDAA U 2.5
+    Remote Now Compatible: Yes
+    Dimensions: ~
+    Product Dimensions (W x H x D): 1100*700*220mm
+    Carton box dimensions (W x H x D): 1230*750*160mm
+    Poduct Weight: 9Kg
+    Warranty: ~
+    Domestic Warranty: 3 Years
+  Additional Information:
+    Brand: Hisense
+    Price Ranges: $500 – $800
+    TV Screen Size: 41 – 50 inch
+    Warranty: 3 Years
+images:
+  - 700x550xHisense-49S4-FULL-HD-TV-SERIES-4-diagonal.jpg.pagespeed.ic._KrQTetZ9-.jpg
+  - Hisense-49S4-FULL-HD-TV-SERIES-4-back-700x550.jpg
+  - Hisense-49S4-FULL-HD-TV-SERIES-4-side2-700x550.jpg
+  - Hisense-49S4-FULL-HD-TV-SERIES-4-side-700x550.jpg
+  - Hisense-49S4-FULL-HD-TV-SERIES-4-frame-700x550.jpg
+  - Hisense-49S4-FULL-HD-TV-SERIES-4-base-700x550.jpg
+---
