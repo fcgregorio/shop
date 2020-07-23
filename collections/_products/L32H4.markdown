@@ -1,0 +1,49 @@
+---
+layout: product
+name: CHiQ L32H4 32″ HD TV
+brand: CHiQ
+sku: L32H4
+price: $299
+category: Televisions
+subcategory: HD Televisions
+details:
+  Description:
+    Display: ~
+    Resolution: 1366 x 768
+    Contrast ratio: 3000
+    View Angle: 170°(H)/170°(V)
+    Response Time: 6.5ms
+    Terminals: ~
+    HDMI: x 2
+    USB: x 1
+    AV: YES
+    RF: YES
+    SPDIF(OPTICAL): YES
+    Functions: ~
+    EPG: YES
+    Teletext: YES
+    Sleep Timer: YES
+    Parental Lock: YES
+    Hotel Mode: YES
+    Audio: ~
+    Audio Output: 2 x 5 WATT
+    Dolby Digital Plus: Yes
+    Wall Mounting: VESA 200*200mm
+    Dimensions (W x D x H) mm: ~
+    Without Stand:  731 x 80 x 435
+    With Stand: 731 x 180 x 481
+    Package: 800 x 127 x 495
+    Weight: Net 4.0 kg / Gross 5.2
+    WARRANTY: ~
+    Domestic Warranty: 3 Years
+  Additional Information:
+    Weight: 5.5 kg
+    Dimensions: 80 × 13 × 49.5 cm
+    Warranty: 3 Years
+images:
+  - xCHiQ-L32H4-32-HD-TV-Main.jpg.pagespeed.ic.QFwphxgOCK.webp
+  - xCHiQ-L32H4-32-HD-TV-Front.jpg.pagespeed.ic.L2ESe-9YSa.jpg
+  - xCHiQ-L32H4-32-HD-TV-Angle.jpg.pagespeed.ic.P-nndOCUPL.jpg
+  - CHiQ-L32H4-32-HD-TV-Back.jpg
+  - CHiQ-L32H4-32-HD-TV-Side.webp
+---
