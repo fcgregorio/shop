@@ -1,0 +1,34 @@
+---
+layout: product
+name: TCL 32S615 32inch HD Androud LED Tv
+brand: TCL
+sku: 32S615
+price: $399
+category: Televisions
+subcategory: HD Televisions
+details:
+  Description:
+    Type: HD Android LED TV
+    Size: 32inch
+    Resolution: 1366 x 768
+    Features: ~
+    Sound: Dolby Audio
+    Smart TV: Yes
+    Bluetooth: Yes
+    AI Integrated: Yes
+    Remote Control: Yes
+    Netflix / Youtubr / Stan: Yes
+    Dimensions: ~
+    Product Dimensions (HxWxD): 473x720x180mm
+    Weight: 3.5kg
+    Warranty: ~
+    Warranty: 3 Years
+  Additional Information:
+    Brand: TCL
+    TV Screen Size: 31 – 40 inch
+    Warranty: 3 Years
+images:
+  - 700x550xTCL-32S615-32inch-HD-Androud-LED-Tv-Angle.jpg.pagespeed.ic.teKs45Upk2.jpg
+  - xTCL-32S615-32inch-HD-Androud-LED-Tv-Back-700x550.jpg.pagespeed.ic.78Lu_kGNDj.jpg
+  - xTCL-32S615-32inch-HD-Androud-LED-Tv-Side-700x550.jpg.pagespeed.ic.OrlFMw3BGv.jpg
+---
