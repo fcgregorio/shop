@@ -7,7 +7,7 @@ price: $599
 category: Washing Machines
 subcategory: Front Load Washing Machines
 details:
-  Specifications:
+  Description:
     Basic Data: ~
     Cabinet Colour: White
     Display/Colour: LED/Red
