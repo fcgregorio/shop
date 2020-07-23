@@ -1,10 +1,12 @@
 ---
 layout: default
 ---
-<div class="row">
-  {% for product in site.products %}
-    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
-      {% include product_card.html product=product %}
-    </div>
-  {% endfor %}
+<div class="container">
+  <div class="row">
+    {% for product in site.products %}
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
+        {% include product_card.html product=product %}
+      </div>
+    {% endfor %}
+  </div>
 </div>
