@@ -1,0 +1,39 @@
+---
+layout: product
+name: Hisense 58S5 58inch UHD 4K TV SERIES S5
+brand: Hisense
+sku: 58S5
+price: $799
+category: Televisions
+subcategory: Ultra HD Televisions
+details:
+  Description:
+    MODEL: 58S8
+    Display: ~
+    Size: 58 inch
+    Resolution: 3840x2160
+    Smooth Motion Rate: 100
+    Super Contrast: Yes
+    Precision Colour: Yes
+    Freeview Plus: Yes
+    Energy Rating: 5 Star
+    Dimensions: ~
+    Product Dimensions (Incuding Stand) (WxHxD): 1292x812x233mm
+    Product Dimensions (WxHxD): 1292x749x68mm
+    VESA Wall Mount: 400x200mm
+    Warranty: ~
+    Warranty: 3 Years
+  Additional Information:
+    Brand: Hisense
+    Energy Rating: 5
+    Price Ranges: $800 – $1000
+    TV Screen Size: 51 -60 inch
+    Warranty: 3 Years
+images:
+  - TCL-50P8M-50”-QUHD-TV-AI-IN-MAIN.jpg
+  - Hisense-58S5-58inch-UHD-4K-TV-SERIES-S5-base.jpg
+  - Hisense-58S5-58inch-UHD-4K-TV-SERIES-S5-side-700x550.jpg
+  - Hisense-58S5-58inch-UHD-4K-TV-SERIES-S5-back-700x550.jpg
+  - Hisense-58S5-58inch-UHD-4K-TV-SERIES-S5-frame-700x550.jpg
+  - Hisense-58S5-58inch-UHD-4K-TV-SERIES-S5-side2-700x550.jpg
+---
