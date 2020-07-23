@@ -1,0 +1,57 @@
+---
+layout: product
+name: TCL 43S6800FS 43″ Full HD Smart TV
+brand: TCL
+sku: 43S6800FS
+price: $499
+category: Televisions
+subcategory: Full HD Televisions
+details:
+  Description:
+    Features: ~
+    Size: 43″
+    Full High Definition: Yes
+    Resolution: 1920 x 1080
+    Viewing Angle: 178° H/178° V
+    Contrast Ratio: 4000:01:00
+    HDR Via: USB and Streaming
+    Clear Motion Rate: 100
+    Brightness: 270 nits
+    Functions: ~
+    Artificial Intelligence: Google Assistant
+    Android TV: Yes
+    Chromecast: built-in
+    Voice Search*: Yes
+    Netflix / Stan / YouTube: Yes
+    Freeview Plus: certified
+    MPEG2/MPEG4 DVB-T: Yes
+    Connectivity: ~
+    HDMI Inputs: x 2 (1.4a)
+    USB 2.0: x 2
+    A/V IN: Yes
+    Headphone Output: Yes
+    WiFi / Ethernet: 2.4GHz
+    Optical SPDIF: Output/HDMI ARC
+    Bluetooth: Yes
+    Audio: ~
+    Dolby Audio: Yes
+    Audio Power Output: 2 x 8W
+    DIMENSIONS: ~
+    Dimensions with Stand (mm): 970.2(W) x 623.3(H) x 185.4(D)
+    Dimensions W/Out Stand (mm): 970.2(W) x 567.8(H) x 75.6(D)
+    Weight with Stand (kg): 7.5
+    Weight W/Out Stand (kg): 7.4
+    VESA Mount (mm): 100 X 100 (M6 Screw Size)
+    WARRANTY: ~
+    Domestic: 3 Years
+  Additional Information:
+    Weight: 9.7 kg
+    Dimensions: 114 × 13 × 66 cm
+    Energy Rating: 5
+    Warranty: 3 Years
+images:
+  - xTCL-43S6800FS-43inch-Full-HD-Smart-TV-Main.jpg.pagespeed.ic.iyHLMMGUHw.jpg
+  - xTCL-43S6800FS-43inch-Full-HD-Smart-TV-Angle.jpg.pagespeed.ic.Q8PQZMuFPt.webp
+  - TCL-43S6800FS-43inch-Full-HD-Smart-TV-Edge.jpg
+  - TCL-43S6800FS-43inch-Full-HD-Smart-TV-Stand.jpg
+---
