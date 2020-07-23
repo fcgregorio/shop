@@ -18,30 +18,30 @@ details:
     Max Temperature Option (℃): 95
     Max Spin Speed Option.(rpm): 1200
     Safety Systems: ~
-    Anti-foam sensor system: yes
-    Electronic Spin Speed Management: yes
-    Balance control: yes
+    Anti-foam sensor system: Yes
+    Electronic Spin Speed Management: Yes
+    Balance control: Yes
     Programs: ~
-    Cotton: yes
-    Cotton Eco: yes
-    Synthetics: yes
-    Silk/Delicate: yes
-    Wool: yes
-    Mix: yes
-    Sportswear: yes
-    Shirts: yes
-    Skin Care: yes
-    Dark Wash: yes
-    Duvet: yes
-    Quick: yes
-    Rinse+Spin: yes
-    Spin: yes
-    Drum Clean: yes
+    Cotton: Yes
+    Cotton Eco: Yes
+    Synthetics: Yes
+    Silk/Delicate: Yes
+    Wool: Yes
+    Mix: Yes
+    Sportswear: Yes
+    Shirts: Yes
+    Skin Care: Yes
+    Dark Wash: Yes
+    Duvet: Yes
+    Quick: Yes
+    Rinse+Spin: Yes
+    Spin: Yes
+    Drum Clean: Yes
     Features: ~
     Number Programs: 15
-    Snowflake Drum: yes
-    Child Lock: yes
-    Time Delay: yes
+    Snowflake Drum: Yes
+    Child Lock: Yes
+    Time Delay: Yes
     Tub/Drum Material: Plastic/Stainless Steel
     Performance: ~
     Energy Rating: 4 Star - 310kWh/365 Uses

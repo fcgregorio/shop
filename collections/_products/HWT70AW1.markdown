@@ -11,9 +11,9 @@ details:
     Features: ~
     Wash Action: Pulsating
     Lid: Soft Close
-    Memory Program: yes
-    Delay Start: yes
-    Lint Filter: yes
+    Memory Program: Yes
+    Delay Start: Yes
+    Lint Filter: Yes
     Specifications: ~
     Colour: White
     Dry load capacity (KG): 7

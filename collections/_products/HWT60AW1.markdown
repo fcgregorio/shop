@@ -12,15 +12,15 @@ details:
     Program Cycles: 8
     Spin Speed (max, rpm): 650
     Wash Action: Pulsating
-    Progress Indicator: yes
-    Soft Close Lid: yes
-    Child Lock: yes
-    Memory Program: yes
+    Progress Indicator: Yes
+    Soft Close Lid: Yes
+    Child Lock: Yes
+    Memory Program: Yes
     Lid: One Piece Tempered Glass
-    Delay Start: yes
-    Adjustable Front Feet: yes
-    Lint Filter: yes
-    Electronic Control with LED/Time Remaining Display: yes
+    Delay Start: Yes
+    Adjustable Front Feet: Yes
+    Lint Filter: Yes
+    Electronic Control with LED/Time Remaining Display: Yes
     Energy Rating: 2 Star
     Water Rating (WELS): 3.5 Star
     Finish: White
