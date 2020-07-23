@@ -1,0 +1,47 @@
+---
+layout: product
+name: TCL 65C8 65″ QUHD TV
+brand: TCL
+sku: 65C8
+price: $1,299
+category: Televisions
+subcategory: Ultra HD Televisions
+details:
+  Description:
+    Display: ~
+    Ultra High Definition: Yes
+    Resolution: 3840 x 2160
+    4K HDR: Yes
+    Wide Colour Gamut: Yes
+    Viewing Angle: 178°H/178°V
+    Contrast Ratio: 5000-1
+    Clear Motion Rate: 200
+    Brightness: 400 nits
+    Connectivity: ~
+    HDMI Inputs: x 3 (1.4a & 2.0) & HDCP2.2
+    USB 2.0: x 2 (MP3/WMA/AC3/JPEG/PNG/BMP/H.265/H.264/WMV/VC1/VP8/VP9 & MPG 1/2/4 Compatible)
+    Headphone Output: Yes
+    AV In: Yes
+    2.4GHz/5Ghz Dual Band WiFi / Ethernet:  Yes
+    Optical SPDIF Output/HDMI ARC: Yes
+    Bluetooth: Yes
+    Audio: ~
+    Onkyo Audio: Yes
+    Audio Power Output: 2 x 10W + 2 x 5W
+    Dolby/DTS: Yes
+    Dimensions: ~
+    With Stand: 1447.6 (W) x 931.1 (H) x 328 (D)
+    Without Stand: 1447.6 (W) x 861.4 (H) x 73.4(D)
+    Weight with Stand (kg): 27.1
+    Weight W/Out Stand (kg): 24.6
+    VESA Mount (mm): 400 x 200 (M6 screw size)
+  Additional Information:
+    Energy Rating: 5.5
+    Warranty: 3 Years
+images:
+  - TCL-65C8-65-Inch-C8-QUHD-TV-Main-147x116.jpg
+  - xTCL-65C8-65-Inch-C8-QUHD-TV-Lifestyle.jpg.pagespeed.ic.UKx15pVsf5.webp
+  - xTCL-65C8-65-Inch-C8-QUHD-TV-Front.jpg.pagespeed.ic.n14OGztONU.webp
+  - TCL-65C8-65-Inch-C8-QUHD-TV-Edge.jpg
+  - TCL-65C8-65-Inch-C8-QUHD-TV-Back.jpg
+---
