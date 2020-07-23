@@ -1,0 +1,41 @@
+---
+layout: product
+name: TCL 50P8M 50″ QUHD TV AI-IN
+brand: TCL
+sku: 50P8M
+price: $599
+category: Televisions
+subcategory: Ultra HD Televisions
+details:
+  Description:
+    Display: ~
+    Ultra High Definition: Yes
+    Resolution: 3840 x 2160
+    4K HDR: Yes
+    Viewing Angle: 178°H/178°V
+    Contrast Ratio: 5000-1
+    Clear Motion Rate: 100
+    Brightness: 270 nits
+    Connectivity: ~
+    HDMI Inputs: x 3 (1.4a & 2.0) & HDCP2.2
+    USB 2.0: x 2 (MP3/AC3/AAC/AC4/JPEG/ PNG/BMP/GIF/HEIF/H.265/H.264/VP8/VP9 and MPEG 1/2/4 Compatible)
+    Headphone Output: Yes
+    AV In: Yes
+    2.4GHz Single Band WiFi / Ethernet: Yes
+    Optical SPDIF Output/HDMI ARC: Yes
+    Bluetooth: Yes
+    Audio: ~
+    Dolby Audio: Yes
+    Audio Power Output: 2 x 8W
+    Dimensions: ~
+    With Stand: 1121 (W) x 710 (H) x 251 (D)
+    Without Stand: 1121 (W) x 653 (H) x 81 (D)
+    Weight with Stand (kg): 10
+    Weight W/Out Stand (kg): 9.8
+    VESA Mount (mm): 200 x 200
+  Additional Information:
+    Energy Rating: 5.5
+    Warranty: 3 Years
+images:
+  - TCL-50P8M-50”-QUHD-TV-AI-IN-MAIN.jpg
+---
