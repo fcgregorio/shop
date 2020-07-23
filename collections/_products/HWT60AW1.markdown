@@ -44,6 +44,6 @@ details:
     Product Features: Top Load Washers
     Product Category: Washing Machines
 images:
-  - xHWT70AW1-main.jpg.pagespeed.ic.2Akv2OuuWz.jpg
+  - xHaier-HWT60AW1-6Kg-Top-Load-Washer-Main.jpg.pagespeed.ic.BNZns8sOeA.webp
   - xHaier-HWT60AW1-6Kg-Top-Load-Washer-Control-Panel.jpg.pagespeed.ic.14ineQ-Q68.webp
 ---
