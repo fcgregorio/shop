@@ -1,5 +1,5 @@
 ---
-permalink: /washing-machines.html
+
 layout: category
 category: Washing Machines
 subcategories:
