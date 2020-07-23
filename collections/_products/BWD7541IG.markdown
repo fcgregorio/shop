@@ -39,7 +39,7 @@ details:
     Wash and Dry Programs: ~
     Number of programs: 16
     Wash programs: Cottons, Cottons Eco, Synthetics, Daily Quick, Quick 14, Shirts, Wool, Rinse, Refresh, Wash&Wear, AntiAllergy+ Wash&Dry, 4kg Wash & Dry, Cotton Dry, Synthetic Dry, Cotton Dry, Synthetic Dry, Drum Clean+, Spin+Drain
-    Auxiliary functions PreWash, Pet Hair Removal, AntiCrease+, Drying Time
+    Auxiliary functions: PreWash, Pet Hair Removal, AntiCrease+, Drying Time
     Safety: ~
     Child Lock: Yes
     Overflow Safety: Yes
