@@ -1,0 +1,51 @@
+---
+layout: product
+name: LG WVC51409W 9kg/5kg Front Load Washer Dryer Combo with Steam
+brand: LG
+sku: WVC51409W
+price: $1,149
+category: Washing Machines
+subcategory: Washer & Dryer Combos
+details:
+  Description:
+    Model: WVC51409W
+    Type: Front Load Washer / Dryer Combo
+    Capacity: 9Kg
+    Colour: White
+    Featues: ~
+    Load Sensing: Yes
+    Stainless Steel Tub: Yes
+    Dispensers: Detergent / Softener / Pre-Wash
+    Auto-Balance: Yes
+    Dry Capacity: 5 kg
+    Max Spin Speed: 1400 RPM
+    6 Motion Wash: Yes
+    Steam: Yes (2 Cycles only)
+    Stainless Steel Lifters: Yes
+    Inlets: Cold Only
+    LG ThinQ: Yes (WiFi)
+    Smart Diagnosis: Yes
+    Number of Programs: 11
+    Energy Rating: 4 - 4.5 Star
+    Water Rating: 4.5 Star
+    EAN: 8806098523764
+    Dimensions : ~
+    Product Dimensions (WxDxH): 600x605x850mm
+    Packaged Dimensions (WxDxH): 660x660x890mm
+    Warranty: ~
+    Warranty: 2 Years
+  Additional Information:
+    Brand: LG
+    Colour: White
+    Energy Rating: 4.5
+    Price Ranges: $1000 – $2000
+    Warranty: 2 Years
+    Water Rating: 4.5
+    Wash Capacity: 9.0 kg
+images:
+  - LG-WVC51409W-9kg-5kg-Front-Load-Washer-Dryer-Combo-with-Steam-Main.jpg
+  - LG-WVC51409W-9kg-5kg-Front-Load-Washer-Dryer-Combo-with-Steam-Tub-700x550.jpg
+  - LG-WVC51409W-9kg-5kg-Front-Load-Washer-Dryer-Combo-with-Steam-Angle-700x550.jpg
+  - LG-WVC51409W-9kg-5kg-Front-Load-Washer-Dryer-Combo-with-Steam-Open-Front-700x550.jpg
+  - LG-WVC51409W-9kg-5kg-Front-Load-Washer-Dryer-Combo-with-Steam-Buttons-700x550.jpg
+---
