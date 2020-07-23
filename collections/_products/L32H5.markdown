@@ -1,0 +1,49 @@
+---
+layout: product
+name: CHIQ L32H5 32″ FHD LED TV
+brand: CHIQ
+sku: L32H5
+price: $399
+category: Televisions
+subcategory: Full HD Televisions
+details:
+  Description:
+    Display: ~
+    Ultra High Definition: Yes
+    Resolution: 3840 x 2160
+    4K HDR: Yes
+    Viewing Angle: 178°H/178°V
+    Contrast Ratio: 4000 - 1
+    Clear Motion Rate: 100
+    Brightness: 270 nits
+    Connectivity: ~
+    HDMI Inputs: x 2 (1.4a & 2.0) & HDCP2.2
+    USB 2.0: x 1 (MP3/AC3/AAC/AC4/JPEG/PNG/ BMP/GIF/HEIF/H.265/H.264/VP8/VP9 and MPEG 1/2/4 Compatible)
+    Headphone Output: ~
+    AV In: Yes
+    2.4GHz Single Band WiFi / Ethernet: Yes
+    Optical SPDIF Output/HDMI ARC: Yes
+    Bluetooth: Yes
+    Audio: ~
+    Dolby Audio: Yes
+    Audio Power Output: 2 x 8W
+    Dimensions: ~
+    With Stand: 965 (W) x 620.5 (H) x 228.5 (D)
+    Without Stand: 965 (W) x 564 (H) x 73.6 (D)
+    Weight with Stand (kg): 7.5
+    Weight W/Out Stand (kg): 7.4
+    VESA Mount (mm): 100 x 100 (M6 screw size)
+  Additional Information:
+    Brand: Hisense
+    Price Ranges: $500 – $800
+    TV Screen Size: 41 – 50 inch
+    Warranty: 3 Years
+images:
+  - xChiq-32-Inch-FHD-LED-TV-Main.jpg.pagespeed.ic.NTgvqNX8GQ.jpg
+  - xChiq-32-Inch-FHD-LED-TV-Angle-Shot.jpg.pagespeed.ic.Eg6JjKtH92.webp
+  - xChiq-32-Inch-FHD-LED-TV-1.jpg.pagespeed.ic.zolTgs6IS9.jpg
+  - xChiq-32-Inch-FHD-LED-TV-Back.jpg.pagespeed.ic.t-lPaJnDgg.jpg
+  - xChiq-32-Inch-FHD-LED-TV-Control.jpg.pagespeed.ic.Ao12jS0vHC.jpg
+  - xChiq-32-Inch-FHD-LED-TV-Lifestyle.jpg.pagespeed.ic.pYosU6XvE4.jpg
+  - xChiq-32-Inch-FHD-LED-TV-Frame.jpg.pagespeed.ic.MVvxZhdqCB.jpg
+---
