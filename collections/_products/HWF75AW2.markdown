@@ -39,7 +39,7 @@ details:
     Dimensions: ~
     Height of product: 845mm
     Width of product: 595mm
-    Depth of product:600mm
+    Depth of product: 600mm
     Warranty: ~
     Domestic Warranty: 2 Years
   Additional Information:
