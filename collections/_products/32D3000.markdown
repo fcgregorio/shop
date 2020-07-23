@@ -1,0 +1,47 @@
+---
+layout: product
+name: TCL 32D3000 32″ HD LED TV with Media Player
+brand: TLC
+sku: 32D3000
+price: $299
+category: Televisions
+subcategory: HD Televisions
+details:
+  Description:
+    Features: ~
+    Screen Size: 32″/81cm
+    Resolution: 1366 x 768
+    True Colour: Yes
+    USB PVR: Yes
+    Slim Design: Yes
+    Specifications: ~
+    Size: 32″
+    Resolution: 1366 x 768
+    True Colour: Yes
+    Viewing Angle: 178° H/178° V
+    Contrast Ratio: "3000:1"
+    Energy Efficient: Yes
+    USB PVR: Yes
+    Dolby: Yes
+    Slim Design: Yes
+    HDMI Inputs: x 2
+    USB 2.0: x 1
+    Headphone Output: x 1
+    AV In: x 1
+    VESA Mount (mm): 100 X 100
+    Energy Rating: 5 Star – 130kWH/annum Registration Number ATV2856
+  Additional Information:
+    Weight: 5.35 kg
+    Dimensions: 80 × 12.8 × 52 cm
+    Brand: TCL
+    Warranty: 3 Years
+    Height: 482.5
+    Width: 731.9
+    Depth: 172.6
+    Energy Rating: 5
+    Product Type: Televisions & Media
+    Product Features: HD Televisions
+    Product Category: Televisions
+images:
+  - x32D3000-main-e.jpg.pagespeed.ic.Ay4mkiaRXI.jpg
+---
