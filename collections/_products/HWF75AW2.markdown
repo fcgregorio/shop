@@ -1,9 +1,9 @@
 ---
 layout: product
-name: Hisense HWFM8012 8KG Front Load Washing Machine
-brand: Hisense
-sku: HWFM8012
-price: $599
+name: Haier HWF75AW2 7.5kg Front Load Washer
+brand: Haier
+sku: HWF75AW2
+price: $579
 category: Washing Machines
 subcategory: Front Load Washing Machines
 details:
