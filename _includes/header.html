@@ -33,9 +33,10 @@
         <div class="dropdown" id="search">
           <input v-model="searchInput" id="searchInput" class="form-control mr-sm-2 dropdown-toggle" type="search" placeholder="Search" aria-label="Search" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" autocomplete="off">
           <div class="dropdown-menu">
-            <a v-for="searchResult in searchResults" 
+            <a v-for="searchResult in searchResults"
+            class="dropdown-item"
             :key="searchResult.ref" 
-            href="{{ site.url }}{{ site.baseurl }}{% raw %}{{ products[parseInt(searchResult.ref, 10)].url }}{% endraw %}">
+            href="{% raw %}{{ {% endraw %}"{{ site.url }}{{ site.baseurl }}"{% raw %} + products[parseInt(searchResult.ref, 10)].url }}{% endraw %}">
               {% raw %}{{ products[parseInt(searchResult.ref, 10)].name }}{% endraw %}
             </a>
           </div>
