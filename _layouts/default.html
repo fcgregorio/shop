@@ -51,13 +51,6 @@
               });
             });
           },
-          mounted: function() {
-            $("#search").on("show.bs.dropdown", function(event){
-              if (app.searchResults.length === 0) {
-                $("#search .dropdown-toggle").dropdown('toggle');
-              }
-            });
-          },
           watch: {
             searchInput: function(val) {
               if (val.trim() === "") {
@@ -78,6 +71,14 @@
               }
             }
           }
+        });
+
+        $(document).ready(function(){
+          $("#search").on("show.bs.dropdown", function(event){
+            if (app.searchResults.length === 0) {
+              $("#search .dropdown-toggle").dropdown('toggle');
+            }
+          });
         });
       }
     </script>
