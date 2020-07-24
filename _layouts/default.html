@@ -61,12 +61,12 @@
             },
             searchResults: function(val) {
               if (val.length === 0) {
-                if ($('#search .dropdown-menu').hasClass("show")){
-                  $('#search .dropdown-toggle').dropdown('toggle');
+                if ($('#search > .dropdown-menu').hasClass("show")){
+                  $('#search > .dropdown-toggle').dropdown('toggle');
                 }
               } else {
-                if (!$('#search .dropdown-menu').hasClass("show")){
-                  $('#search .dropdown-toggle').dropdown('toggle');
+                if (!$('#search > .dropdown-menu').hasClass("show")){
+                  $('#search > .dropdown-toggle').dropdown('toggle');
                 }
               }
             }
@@ -74,9 +74,9 @@
         });
 
         $(document).ready(function(){
-          $("#search").on("show.bs.dropdown", function(event){
+          $("#search").on("shown.bs.dropdown", function(event){
             if (app.searchResults.length === 0) {
-              //$("#search .dropdown-toggle").dropdown('toggle');
+              $("#search > .dropdown-toggle").dropdown('toggle');
             }
           });
         });
