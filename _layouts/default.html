@@ -28,7 +28,7 @@
     </script>
     <script type="text/javascript">
       var Products = Backbone.Collection.extend({
-          url: '/json/products.json',
+          url: '{{ site.baseurl }}/json/products.json',
           initialize: function() {
 
               this.index = lunr(function() {
