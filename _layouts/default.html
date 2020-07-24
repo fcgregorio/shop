@@ -32,19 +32,20 @@
             index: null
           },
           created: function () {
-            $.getJSON('{{ site.url}}{{ site.baseurl }}/json/products.json', function (products) {
-                console.log("her");
-                app.index = lunr(function() {
-                  this.field('name');
-                  this.field('brand');
-                  this.field('sku');
-                  this.field('category');
-                  this.field('subcategory');
-                  this.ref('id');
+            $.getJSON('{{ site.url}}{{ site.baseurl }}/json/products.json')
+            .success(function(products) {
+              console.log("her");
+              app.index = lunr(function() {
+                this.field('name');
+                this.field('brand');
+                this.field('sku');
+                this.field('category');
+                this.field('subcategory');
+                this.ref('id');
 
-                  products.forEach(function (product) {
-                    this.add(product) 
-                  }, this);
+                products.forEach(function (product) {
+                  this.add(product) 
+                }, this);
               });
             });
           },
