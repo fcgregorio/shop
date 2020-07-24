@@ -32,8 +32,8 @@
             index: null
           },
           created: function () {
-            console.log("here");
             $.getJSON('{{ site.url}}{{ site.baseurl }}/json/products.json', function (products) {
+                console.log("her");
                 app.index = lunr(function() {
                   this.field('name');
                   this.field('brand');
