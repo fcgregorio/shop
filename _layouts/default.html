@@ -54,12 +54,11 @@
               app.searchResults = app.searchIndex.search(val);
             },
             searchResults: function(val) {
-              if (val.isEmpty()) {
+              if (val.length === 0) {
                 if ($('#search').find('.dropdown-menu').not(":hidden")){
                   $('#search').find('.dropdown-toggle').dropdown('toggle');
                 }
               } else {
-                console.log(val);
                 if ($('#search').find('.dropdown-menu').is(":hidden")){
                   $('#search').find('.dropdown-toggle').dropdown('toggle');
                 }
