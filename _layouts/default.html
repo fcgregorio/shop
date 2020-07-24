@@ -34,7 +34,7 @@
           created: function () {
 
             $.getJSON('{{ site.url}}{{ site.baseurl }}/json/products.json', function(products) {
-              this.searchIndex = lunr(function() {
+              app.searchIndex = lunr(function() {
                 this.field('name');
                 this.field('brand');
                 this.field('sku');
@@ -51,7 +51,7 @@
           },
           watch: {
             searchInput: function(val) {
-              console.log(this.searchIndex.search(val));
+              console.log(app.searchIndex.search(val));
             }
           }
         });
