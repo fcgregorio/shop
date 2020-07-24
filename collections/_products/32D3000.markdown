@@ -1,7 +1,7 @@
 ---
 layout: product
 name: TCL 32D3000 32″ HD LED TV with Media Player
-brand: TLC
+brand: TCL
 sku: 32D3000
 price: $299
 category: Televisions
