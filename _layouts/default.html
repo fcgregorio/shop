@@ -28,6 +28,7 @@
         var app = new Vue({
           el: '#app',
           data: {
+            products: null
             searchInput: '',
             searchIndex: null,
             searchResults: []
@@ -35,6 +36,7 @@
           created: function () {
 
             $.getJSON('{{ site.url}}{{ site.baseurl }}/json/products.json', function(products) {
+              app.products = products;
               app.searchIndex = lunr(function() {
                 this.field('name');
                 this.field('brand');
@@ -50,7 +52,7 @@
             });
 
             $('#search').find('.dropdown-menu').on('show.bs.dropdown', function () {
-              if (app.searchResults.length ==- 0) {
+              if (app.searchResults.length === 0) {
                 $('#search').find('.dropdown-toggle').dropdown('toggle');
               }
             })
