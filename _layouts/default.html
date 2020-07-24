@@ -29,12 +29,12 @@
           el: '#app',
           data: {
             searchInput: '',
-            index: null
+            searchIndex: null
           },
           created: function () {
 
             $.getJSON('{{ site.url}}{{ site.baseurl }}/json/products.json', function(products) {
-              app.index = lunr(function() {
+              app.searchIndex = lunr(function() {
                 this.field('name');
                 this.field('brand');
                 this.field('sku');
@@ -51,7 +51,11 @@
           },
           watch: {
             searchInput: function(val) {
-              console.log(app.index.search(val));
+              if (val.trim() === '') {
+
+              } else {
+                console.log(app.searchIndex.seach(val));
+              }
             }
           }
         });
