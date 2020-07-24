@@ -51,7 +51,7 @@
           },
           watch: {
             searchInput: function(val) {
-              app.searchIndex.search(val);
+              app.searchResults = app.searchIndex.search(val);
             },
             searchResults: function(val) {
               if (val.isEmpty()) {
