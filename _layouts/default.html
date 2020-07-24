@@ -30,6 +30,7 @@
           data: {
             searchInput: '',
             searchIndex: null
+            searchResults: []
           },
           created: function () {
 
@@ -46,13 +47,21 @@
                   this.add(product) 
                 }, this);
               });
-                
             });
           },
           watch: {
             searchInput: function(val) {
-              if ($('#search').find('.dropdown-menu').is(":hidden")){
-               $('#search').find('.dropdown-toggle').dropdown('toggle');
+              
+            },
+            searchResults: function(val) {
+              if (val.isEmpty()) {
+                if ($('#search').find('.dropdown-menu').not(":hidden")){
+                  $('#search').find('.dropdown-toggle').dropdown('toggle');
+                }
+              } else {
+                if ($('#search').find('.dropdown-menu').is(":hidden")){
+                  $('#search').find('.dropdown-toggle').dropdown('toggle');
+                }
               }
             }
           }
