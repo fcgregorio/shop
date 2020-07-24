@@ -55,11 +55,11 @@
             },
             searchResults: function(val) {
               if (val.length === 0) {
-                if ($('#search').find('.dropdown-menu').not(":hidden")){
+                if ($('#search').find('.dropdown-menu').hasClass("show")){
                   $('#search').find('.dropdown-toggle').dropdown('toggle');
                 }
               } else {
-                if ($('#search').find('.dropdown-menu').is(":hidden")){
+                if (!$('#search').find('.dropdown-menu').hasClass("show")){
                   $('#search').find('.dropdown-toggle').dropdown('toggle');
                 }
               }
