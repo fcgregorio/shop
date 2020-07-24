@@ -32,7 +32,25 @@
             index: null
           },
           created: function () {
-            $.getJSON('{{ site.url}}{{ site.baseurl }}/json/products.json')
+
+            $.getJSON('{{ site.url}}{{ site.baseurl }}/json/products.json', function(products) {
+              console.log("her");
+              app.index = lunr(function() {
+                this.field('name');
+                this.field('brand');
+                this.field('sku');
+                this.field('category');
+                this.field('subcategory');
+                this.ref('id');
+
+                $.each( data, function( key, product ) {
+                  this.add(product);
+                });
+              });
+                
+            });
+
+            /*$.getJSON('{{ site.url}}{{ site.baseurl }}/json/products.json')
             .success(function(products) {
               console.log("her");
               app.index = lunr(function() {
@@ -47,7 +65,7 @@
                   this.add(product) 
                 }, this);
               });
-            });
+            });*/
           },
           watch: {
             searchInput: function(val) {
