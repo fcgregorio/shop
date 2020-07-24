@@ -32,6 +32,7 @@
             index: null
           },
           created: function () {
+            console.log("here");
             $.getJSON('{{ site.url}}{{ site.baseurl }}/json/products.json', function (products) {
                 app.index = lunr(function() {
                   this.field('name');
@@ -44,8 +45,6 @@
                   products.forEach(function (product) {
                     this.add(product) 
                   }, this);
-
-                  console.log(app.index);
               });
             });
           },
