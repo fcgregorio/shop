@@ -35,8 +35,8 @@
           <div class="dropdown-menu">
             <a v-for="searchResult in searchResults" 
             :key="searchResult.ref" 
-            href="{{ site.url }}{{ site.baseurl }}{% raw %}{{ app.products[searchResult.ref].url }}{% endraw %}">
-              {% raw %}{{ app.products[searchResult.ref].name }}{% endraw %}
+            href="{{ site.url }}{{ site.baseurl }}{% raw %}{{ app.products[parseInt(searchResult.ref, 10)].url }}{% endraw %}">
+              {% raw %}{{ app.products[parseInt(searchResult.ref, 10)].name }}{% endraw %}
             </a>
           </div>
         </div>
