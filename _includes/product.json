@@ -1,0 +1,12 @@
+{
+    "id": "{{ forloop.index }}",
+    "url": "{{ post.url }}",
+    "name": "{{ post.name }}",
+    "brand": "{{ post.brand }}",
+    "sku": "{{ post.sku }}",
+    "price": "{{ post.price }}",
+    "category": "{{ post.category }}",
+    "subcategory": "{{ post.subcategory }}",
+    "details": "{{ post.details }}",
+    "images": "[{% for image in post.images %}{{ image }}{% unless forloop.last %}, {% endunless %}{% endfor %}]"
+}

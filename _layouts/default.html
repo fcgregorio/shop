@@ -12,6 +12,71 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
     <script src="https://unpkg.com/lunr/lunr.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.js/1.4.0/backbone-min.js"></script>
+    <script type="text/javascript">
+      var Products = Backbone.Collection.extend({
+          url: '/json/products.json',
+          initialize: function() {
+
+              this.index = lunr(function() {
+                  this.field('name', {boost: 10});
+                  this.field('brand', {boost: 10});
+                  this.field('sku', {boost: 10});
+                  this.field('category', {boost: 5});
+                  this.field('subcategory', {boost: 5});
+                  this.ref('id');
+              });
+          },
+          parse: function(products) {
+              var self = this;
+
+              _(products).each(function(product) {
+                  self.index.add(product);
+              });
+
+              return products;
+          },
+          filter: function(term) {
+              var self = this;
+
+              var results = _(this.index.search(term)).map(function(r) {
+                  return self.get(r.ref);
+              });
+
+              return results;
+          }
+      });
+
+      var SearchResult = Backbone.View.extend({
+          template: _.template($('#search-result').html().trim()),
+          render: function() {
+              this.$el.html(this.template(this.model.attributes));
+              return this;
+          }
+      });
+
+      var products = new Products();
+      products.fetch();
+
+      $('.search-input').on('change', function() {
+          var results = products.filter($(this).val().trim());
+          $resultsContainer = $('.search-results').empty();
+
+          _(results).each(function(r) {
+              $resultsContainer.append(new SearchResult({model: r}).render().$el);
+          });
+      });
+    </script>
+    <script type="text/template" id="search-result">
+        <div class="result">
+            <h3><a href="<%= url %>"><%= title %></a></h3>
+            <p><%= excerpt.substr(0, 120) + '...' %></p>
+            <div class="categories">
+                <% for (var i = 0; i < categories.length; i++) { %>
+                    <span class="category pill"><%= categories[i] %></span>
+                <% } %>
+            </div>
+        </div>
+    </script>
   </head>
   <body>
     {% include header.html %}
