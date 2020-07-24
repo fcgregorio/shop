@@ -1,5 +1,5 @@
 {
-    "id": "{{ forloop.index }}",
+    "id": "{{ forloop.index0 }}",
     "url": "{{ product.url }}",
     "name": "{{ product.name }}",
     "brand": "{{ product.brand }}",
