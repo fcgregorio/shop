@@ -51,13 +51,12 @@
               });
             });
 
-            $('#search').on('show.bs.dropdown', function () {
+            /*$('#search').on('show.bs.dropdown', function () {
               console.log("asdad");
               if (app.searchResults.length === 0) {
-                //$('#search').find('.dropdown-toggle').dropdown('toggle');
-                console.log("asdad");
+                $('#search .dropdown-toggle').dropdown('toggle');
               }
-            })
+            })*/
           },
           watch: {
             searchInput: function(val) {
@@ -69,73 +68,24 @@
             },
             searchResults: function(val) {
               if (val.length === 0) {
-                if ($('#search').find('.dropdown-menu').hasClass("show")){
-                  $('#search').find('.dropdown-toggle').dropdown('toggle');
+                if ($('#search .dropdown-menu').hasClass("show")){
+                  $('#search .dropdown-toggle').dropdown('toggle');
                 }
               } else {
-                if (!$('#search').find('.dropdown-menu').hasClass("show")){
-                  $('#search').find('.dropdown-toggle').dropdown('toggle');
+                if (!$('#search .dropdown-menu').hasClass("show")){
+                  $('#search .dropdown-toggle').dropdown('toggle');
                 }
               }
             }
           }
         });
       }
-
-      /*var Products = Backbone.Collection.extend({
-          url: '{{ site.baseurl }}/json/products.json',
-          initialize: function() {
-
-              this.index = lunr(function() {
-                  this.field('name', {boost: 10});
-                  this.field('brand', {boost: 10});
-                  this.field('sku', {boost: 10});
-                  this.field('category', {boost: 5});
-                  this.field('subcategory', {boost: 5});
-                  this.ref('id');
-
-                  this.add(product);
-              });
-          },
-          parse: function(products) {
-              var self = this;
-
-              // _(products).each(function(product) {
-              //     self.index.add(product);
-              // });
-
-              return products;
-          },
-          filter: function(term) {
-              var self = this;
-
-              var results = _(this.index.search(term)).map(function(r) {
-                  return self.get(r.ref);
-              });
-
-              return results;
-          }
-      });
-
-      var SearchResult = Backbone.View.extend({
-          template: _.template($('#search-result').html().trim()),
-          render: function() {
-              this.$el.html(this.template(this.model.attributes));
-              return this;
-          }
-      });
-
-      var products = new Products();
-      products.fetch();
-
-      $('.search-input').on('change', function() {
-          var results = products.filter($(this).val().trim());
-          $resultsContainer = $('.search-results').empty();
-
-          _(results).each(function(r) {
-              $resultsContainer.append(new SearchResult({model: r}).render().$el);
-          });
-      });*/
+      $('#search').on('show.bs.dropdown', function () {
+              console.log("asdad");
+              if (app.searchResults.length === 0) {
+                $('#search .dropdown-toggle').dropdown('toggle');
+              }
+            })
     </script>
   </head>
   <body>
