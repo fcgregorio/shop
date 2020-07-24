@@ -10,10 +10,7 @@
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/backbone.js/1.0.0/backbone-min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
     <script src="https://unpkg.com/lunr/lunr.js"></script>
     <script type="text/template" id="search-result">
         <div class="result">
@@ -27,7 +24,30 @@
         </div>
     </script>
     <script type="text/javascript">
-      var Products = Backbone.Collection.extend({
+      window.onload = function() {
+        var app = new Vue({
+          el: '#app',
+          data: {
+            index: null
+          },
+          created: function () {
+            var _this = this;
+            $.getJSON('{{ site.baseurl }}/json/products.json', function (products) {
+                this.index = lunr(function() {
+                  this.field('name', {boost: 10});
+                  this.field('brand', {boost: 10});
+                  this.field('sku', {boost: 10});
+                  this.field('category', {boost: 5});
+                  this.field('subcategory', {boost: 5});
+                  this.ref('id');
+
+                  products.forEach(function (product) { this.add(product) }, this)
+              });
+            });
+          }
+        });
+
+      /*var Products = Backbone.Collection.extend({
           url: '{{ site.baseurl }}/json/products.json',
           initialize: function() {
 
@@ -38,14 +58,16 @@
                   this.field('category', {boost: 5});
                   this.field('subcategory', {boost: 5});
                   this.ref('id');
+
+                  this.add(product);
               });
           },
           parse: function(products) {
               var self = this;
 
-              _(products).each(function(product) {
-                  self.index.add(product);
-              });
+              // _(products).each(function(product) {
+              //     self.index.add(product);
+              // });
 
               return products;
           },
@@ -78,14 +100,16 @@
           _(results).each(function(r) {
               $resultsContainer.append(new SearchResult({model: r}).render().$el);
           });
-      });
+      });*/
     </script>
   </head>
   <body>
-    {% include header.html %}
-    <div class="py-5">
-      {{ content }}
+    <div id='app' v-cloak>
+      {% include header.html %}
+      <div class="py-5">
+        {{ content }}
+      </div>
+      {% include footer.html %}
     </div>
-    {% include footer.html %}
   </body>
 </html>
