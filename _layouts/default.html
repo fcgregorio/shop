@@ -33,6 +33,7 @@
           },
           created: function () {
             $.getJSON('{{ site.baseurl }}/json/products.json', function (products) {
+                console.log(products);
                 app.index = lunr(function() {
                   this.field('name');
                   this.field('brand');
