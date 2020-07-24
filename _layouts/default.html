@@ -51,12 +51,12 @@
               });
             });
 
-            /*$('#search').on('show.bs.dropdown', function () {
+            $('#search').on('show.bs.dropdown', function () {
               console.log("asdad");
               if (app.searchResults.length === 0) {
                 $('#search .dropdown-toggle').dropdown('toggle');
               }
-            })*/
+            });
           },
           watch: {
             searchInput: function(val) {
@@ -80,12 +80,6 @@
           }
         });
       }
-      $('#search').on('show.bs.dropdown', function () {
-              console.log("asdad");
-              if (app.searchResults.length === 0) {
-                $('#search .dropdown-toggle').dropdown('toggle');
-              }
-            })
     </script>
   </head>
   <body>
