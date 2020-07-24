@@ -32,7 +32,7 @@
             index: null
           },
           created: function () {
-            $.getJSON('{{ site.baseurl }}/json/products.json', function (products) {
+            $.getJSON('{{ site.url}}{{ site.baseurl }}/json/products.json', function (products) {
                 app.index = lunr(function() {
                   this.field('name');
                   this.field('brand');
@@ -42,7 +42,6 @@
                   this.ref('id');
 
                   products.forEach(function (product) {
-                    console.log(product);
                     this.add(product) 
                   }, this);
 
