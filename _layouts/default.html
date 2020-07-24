@@ -51,11 +51,11 @@
               });
             });
 
-            $("#searchInput").on("click", function (e) {
-              if (app.searchResults.length === 0 && !$('#search').find('.dropdown-menu').hasClass("show")) {
-                e.stopPropagation();
+            $('#search').on('show.bs.dropdown', function () {
+              if (app.searchResults.length === 0) {
+                $('#search').find('.dropdown-toggle').dropdown('toggle');
               }
-            });
+            })
           },
           watch: {
             searchInput: function(val) {
