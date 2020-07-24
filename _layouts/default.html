@@ -51,7 +51,9 @@
           },
           watch: {
             searchInput: function(val) {
-              console.log(app.searchIndex.search(val));
+              if ($('#search').find('.dropdown-menu').is(":hidden")){
+               $('#search').find('.dropdown-toggle').dropdown('toggle');
+              }
             }
           }
         });
