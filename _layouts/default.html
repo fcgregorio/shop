@@ -28,12 +28,13 @@
         var app = new Vue({
           el: '#app',
           data: {
+            search-input: '',
             index: null
           },
           created: function () {
             var _this = this;
             $.getJSON('{{ site.baseurl }}/json/products.json', function (products) {
-                this.index = lunr(function() {
+                app.index = lunr(function() {
                   this.field('name', {boost: 10});
                   this.field('brand', {boost: 10});
                   this.field('sku', {boost: 10});
@@ -41,11 +42,19 @@
                   this.field('subcategory', {boost: 5});
                   this.ref('id');
 
-                  products.forEach(function (product) { this.add(product) }, this)
+                  products.forEach(function (product) { 
+                    this.add(product) 
+                  }, this);
               });
             });
+          },
+          watch: {
+            search-input: function(val) {
+              console.log(app.index.search(val));
+            }
           }
         });
+      }
 
       /*var Products = Backbone.Collection.extend({
           url: '{{ site.baseurl }}/json/products.json',
