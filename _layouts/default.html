@@ -51,7 +51,7 @@
               });
             });
 
-            $('#search').find('.dropdown-menu').on('show.bs.dropdown', function () {
+            $('#search').find('.dropdown-menu').on('shown.bs.dropdown', function () {
               if (app.searchResults.length === 0) {
                 $('#search').find('.dropdown-toggle').dropdown('toggle');
               }
