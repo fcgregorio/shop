@@ -34,16 +34,18 @@
           created: function () {
             $.getJSON('{{ site.baseurl }}/json/products.json', function (products) {
                 app.index = lunr(function() {
-                  this.field('name', {boost: 10});
-                  this.field('brand', {boost: 10});
-                  this.field('sku', {boost: 10});
-                  this.field('category', {boost: 5});
-                  this.field('subcategory', {boost: 5});
+                  this.field('name');
+                  this.field('brand');
+                  this.field('sku');
+                  this.field('category');
+                  this.field('subcategory');
                   this.ref('id');
 
                   products.forEach(function (product) { 
                     this.add(product) 
                   }, this);
+
+                  console.log(app.index);
               });
             });
           },
