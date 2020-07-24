@@ -37,7 +37,6 @@
 
             $.getJSON('{{ site.url}}{{ site.baseurl }}/json/products.json', function(products) {
               app.products = products;
-              console.log(app.products);
               app.searchIndex = lunr(function() {
                 this.field('name');
                 this.field('brand');
