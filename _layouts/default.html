@@ -56,6 +56,12 @@
                 $('#search').find('.dropdown-toggle').dropdown('toggle');
               }
             })
+
+            $("#searchInput").on("click", function (e) {
+              if (app.searchResults.length === 0 && !$('#search').find('.dropdown-menu').hasClass("show")) {
+                e.stopPropagation();
+              }
+            });
           },
           watch: {
             searchInput: function(val) {
