@@ -4,7 +4,7 @@ name: Delonghi PACEX120WH 3Kw Cooling Only Portable Air Conditioner
 brand: PACEX120WH
 sku: Delonghi
 price: $799
-category: Airconditioning
+category: Air Conditioning
 subcategory: Portable Airconditioners
 details:
   Description:

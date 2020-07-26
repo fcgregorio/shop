@@ -4,7 +4,7 @@ name: Dimplex DC12PAC 3.5kW Portable Air Conditioner with Dehumidifier
 brand: Dimplex
 sku: DC12PAC
 price: $699
-category: Airconditioning
+category: Air Conditioning
 subcategory: Portable Airconditioners
 details:
   Description:

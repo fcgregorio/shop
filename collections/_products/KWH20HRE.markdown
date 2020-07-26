@@ -4,7 +4,7 @@ name: Kelvinator KWH20HRE 2.20kw Cooling/1.9kw Heating Reverse Cycle Box Aircond
 brand: Kelvinator
 sku: KWH20HRE
 price: $699
-category: Airconditioning
+category: Air Conditioning
 subcategory: Box Airconditioners
 details:
   Description:

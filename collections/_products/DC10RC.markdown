@@ -4,7 +4,7 @@ name: Dimplex DC10RC 3kw reverse cycle portable
 brand: Dimplex 
 sku: DC10RC
 price: $829
-category: Airconditioning
+category: Air Conditioning
 subcategory: Portable Airconditioners
 details:
   Description:

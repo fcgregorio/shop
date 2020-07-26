@@ -4,7 +4,7 @@ name: Teco TWW16CFCG 1.62kW Cooling Only Box Airconditioner
 brand: Teco
 sku: TWW16CFCG
 price: $649
-category: Airconditioning
+category: Air Conditioning
 subcategory: Box Airconditioners
 details:
   Description:

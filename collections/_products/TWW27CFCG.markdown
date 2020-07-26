@@ -4,7 +4,7 @@ name: Teco TWW27CFCG 2.77kW Cooling Only Box Airconditioner
 brand: Teco
 sku: TWW27CFCG
 price: $829
-category: Airconditioning
+category: Air Conditioning
 subcategory: Box Airconditioners
 details:
   Description:
