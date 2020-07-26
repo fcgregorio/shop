@@ -58,11 +58,13 @@ layout: default
               <tbody>
                 {% for attributes in detail[1] %}
                   <tr>
-                    {% if attributes[1] %}
+                    {% if attributes[1] === null %}
+                      <th scope="row" colspan="2">{{ attributes[0] }}</th>
+                    {% elsif attributes[1] === "" %}
+                      <td scope="row" colspan="2">{{ attributes[0] }}</th>
+                    {% else %}
                       <th scope="row">{{ attributes[0] }}</th>
                       <td>{{ attributes[1] }}</td>
-                    {% else %}
-                      <th scope="row" colspan="2">{{ attributes[0] }}</th>
                     {% endif %}
                   </tr>
                 {% endfor %}
