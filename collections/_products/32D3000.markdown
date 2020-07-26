@@ -9,7 +9,7 @@ subcategory: HD Televisions
 details:
   Description:
     Features: ~
-    32″/81cm Screen Size: ""
+    32″/81cm Screen Sizes: ""
     1366 x 768 Resolution: ""
     True Colour: ""
     USB PVR: ""
