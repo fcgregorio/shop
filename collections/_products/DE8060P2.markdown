@@ -1,7 +1,7 @@
 ---
 layout: product
 name: Fisher & Paykel DE8060P2 8Kg Condenser Dryer
-brand: LG
+brand: Fisher
 sku: DE8060P2
 price: $999
 category: Dryers
