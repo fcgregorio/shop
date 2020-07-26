@@ -4,7 +4,7 @@ name: LG TDC80NPW 8kg Condensing Dryer
 brand: LG
 sku: TDC80NPW
 price: $1,199
-category: Dyers
+category: Dryers
 subcategory: Condenser Dryers
 details:
   Description:
