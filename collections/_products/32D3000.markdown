@@ -9,11 +9,11 @@ subcategory: HD Televisions
 details:
   Description:
     Features: ~
-    Screen Size: 32″/81cm
-    Resolution: 1366 x 768
-    True Colour: Yes
-    USB PVR: Yes
-    Slim Design: Yes
+    32″/81cm Screen Size: ""
+    1366 x 768 Resolution: ""
+    True Colour: ""
+    USB PVR: ""
+    Slim Design: ""
     Specifications: ~
     Size: 32″
     Resolution: 1366 x 768
