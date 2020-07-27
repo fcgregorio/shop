@@ -1,0 +1,29 @@
+---
+layout: product
+name: Nancy Bed Frame
+brand: ~
+sku: MefB9402
+price: $1,299
+category: Beds
+subcategory: ~
+details:
+  Description:
+    Sophisticated designer Leather Bed Frame which simply ooz with elegance and sophistication in every detail.: ""
+    Features: ~
+    Sturdy steel frame: ""
+    Strong side legs: ""
+    Solid wooden slat base: ""
+    Heavy duty metal connectors: ""
+    Adjustable centre support beam: ""
+    Smart assembly: ""
+    Specifications: ""
+    Fits standard King-sized mattress: 183 x 203cm
+    Fits standard Queen-sized mattress: 153 x 203cm
+    Package Content: ~
+    1 x Bed Frame: ""
+    1 x Assembly Manual: ""
+  Additional Information:
+    MATERIAL: Bonded Leather / Top Grain Leather (+$330)
+images:
+  - b9402real_1.jpg
+---
