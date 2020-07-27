@@ -1,0 +1,28 @@
+---
+layout: product
+name: York Lounge
+brand: ~
+sku: E18B
+price: $3,549
+category: Lounges
+subcategory: ~
+details:
+  Description:
+    Superior Quality: This stylish sofa comes with smooth cushion cover and is filled with high-density foam to ensure superior comfort. It has solid wooden frame construction to make it strong and sturdy.
+    Wide Armrest: Its long, wide and comfortable armrests provide added arm support. Once rest your arm on this stylish wide armrest, you will feel the smooth touch of finest linen and drift in relaxation.
+    Strong and Durable: Linen is a strong fibre and it does not stress easily. You can machine-wash or dry-clean the linen fabric cover of this sofa, so stay relaxed even if you spill a little of your afternoon coffee.
+    Product Specifications: ~
+    Product dimension (cm) from left to right: ~
+    chaise: 184 x 126 x 88 x /102
+    1 seat: 73 x 94 x 88 /102
+    3 seat: 180 x 95 x 88 /102
+  Additional Information:
+    Material: Bonded Leather / Top Grain Leather (+$800)
+images:
+  - e18b.jpg
+  - 01--_8.jpg
+  - e18b_1_.jpg
+  - e18b_3_.jpg
+  - e18b_4_.jpg
+  - e18b-size.jpg
+---
