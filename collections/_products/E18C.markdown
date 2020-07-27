@@ -14,8 +14,8 @@ details:
     Product Specifications: ~
     Product dimension (cm) from left to right: ~
     chaise: 184 x 126 x 88 x /102
-    small table: 41 x94
-    3 seat: 180 x 95 x 88/102
+    small table: 41 x 94
+    3 seat: 180 x 95 x 88 /102
   Additional Information:
     Material: Bonded Leather / Top Grain Leather (+$800)
 images:
