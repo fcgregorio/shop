@@ -9,9 +9,10 @@ subcategory: ~
 details:
   Description:
     42 x 70 x 130: ""
-    Packing Box 1: 135.5 x 80.5 x 12
+    Packing: ~
+    Box 1: 135.5 x 80.5 x 12
     17.1kg: ""
-    Packing Box 2: 107.5 x 63 x 30.5
+    Box 2: 107.5 x 63 x 30.5
     13.7kg: ""
   Additional Information:
     MATERIAL: Timber
