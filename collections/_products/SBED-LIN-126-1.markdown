@@ -33,7 +33,6 @@ details:
     Clearance under seat: 22cm
     Other dimensions: Please refer to photo gallery
     Weight capacity: 200kg
-    Colour: Blue
     Package Content: ~
     1 x 3-Seater Sofa Bed: ""
     1 x Assembly Manual: ""
