@@ -12,13 +12,13 @@ details:
     Wide Armrest: Its long, wide and comfortable armrests provide added arm support. Once rest your arm on this stylish wide armrest, you will feel the smooth touch of finest linen and drift in relaxation.
     Strong and Durable: Linen is a strong fibre and it does not stress easily. You can machine-wash or dry-clean the linen fabric cover of this sofa, so stay relaxed even if you spill a little of your afternoon coffee.
     Product Specifications: ~
-    Product dimension (cm) (From left to right): ~
-    chaise: 216*140*104
-    2 seat: 150*92*104
-    corner: 92*92*104
-    1 seat: 110*92*104
+    Product dimension (cm) from left to right: ~
+    chaise: 216 x 140 x104
+    2 seat: 150 x 92 x 104
+    corner: 92 x 92 x 104
+    1 seat: 110 x 92 x 104
   Additional Information:
-    Material: Bonded Leather (Top Grain Leather + $800)
+    Material: Bonded Leather / Top Grain Leather (+$800)
 images:
   - 30_2_3_5.jpg
 ---
