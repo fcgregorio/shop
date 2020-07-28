@@ -1,7 +1,13 @@
 ---
 layout: default
 ---
-{% assign my_variable = site.products | sample: 6 %}
-{% for a in my_variable %}
-{{ a.name }}
-{% endfor %}
+<div class="container my-5">
+    <div class="row">
+      {% assign products = site.products | sample: 6 %}
+      {% for product in products %}
+        <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 my-2">
+          {% include product_card.html product=product %}
+        </div>
+      {% endfor %}
+    </div>
+</div>
