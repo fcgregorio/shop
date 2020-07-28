@@ -4,7 +4,7 @@ name: Trim ETU
 brand: ~
 sku: BERNARETU
 price: $145
-category: Coffee Tables
+category: TV Stands
 subcategory: ~
 details:
   Description:
