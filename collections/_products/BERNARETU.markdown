@@ -11,8 +11,8 @@ details:
     800 ETU: ~
     57H x 80W x 41D: ""
     Packing: ~
-    Box 1: 7H x 85W x 45D: ""
-    Box 2: 13H x 62.5W x 14D: ""
+    Box 1: 7H x 85W x 45D
+    Box 2: 13H x 62.5W x 14D
     17kg: ""
     1000 ETU: ~
     +$50: ""
