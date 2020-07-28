@@ -16,7 +16,7 @@ details:
     34kg: ""
     1800 ETU: ~
     50H x 180W x 40D: ""
-    Packing
+    Packing: ~
     Box 1: 7H x 184W x 43D
     Box 2: 13H x 41W x 20D
     45kg: ""

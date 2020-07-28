@@ -8,13 +8,13 @@ category: TV Stands
 subcategory: ~
 details:
   Description:
-    Features： ~
+    Features: ~
     25mm Top with Hard Edging: ""
     2 Sliding Doors on Track & Wheels: ""
     One Adjustable Shelf behind Each Door: ""
     Step-by-Step Assembly instructions: ""
     Overall Assembled Dimensions: ~
-    1600Wx430Dx550H mm
+    1600Wx430Dx550H mm: ""
     Packaging: ~
     1620 x 460 x 110 mm 41kg: ""
     Available in 3 Colors:
