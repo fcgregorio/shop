@@ -1,3 +1,7 @@
 ---
 layout: default
 ---
+{% assign my_variable = site.products | sample: 6 %}
+{% for a in my_variable %}
+{{ a.name }}
+{% endfor %}
