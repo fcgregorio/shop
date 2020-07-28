@@ -4,7 +4,7 @@ name: Sorian Quality Lounge
 brand: ~
 sku:  MefG1605-1
 price: $3,449 
-category: Lounges
+category: Lounges/Sofas
 subcategory: ~
 details:
   Description:

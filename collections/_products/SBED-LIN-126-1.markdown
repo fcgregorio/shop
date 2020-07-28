@@ -4,7 +4,7 @@ name: Comfort 3 Seater Fabric Lounge
 brand: ~
 sku: SBED-LIN-126-1
 price: $579
-category: Lounges
+category: Lounges/Sofas
 subcategory: ~
 details:
   Description:

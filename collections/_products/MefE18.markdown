@@ -4,7 +4,7 @@ name: Cologne Lounge
 brand: ~
 sku: MefE18
 price: $3,849
-category: Lounges
+category: Lounges/Sofas
 subcategory: ~
 details:
   Description:

@@ -4,7 +4,7 @@ name: York Lounge
 brand: ~
 sku: E18B
 price: $3,549
-category: Lounges
+category: Lounges/Sofas
 subcategory: ~
 details:
   Description:

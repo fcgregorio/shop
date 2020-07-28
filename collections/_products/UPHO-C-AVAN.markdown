@@ -4,7 +4,7 @@ name: Comfort Rocking Armchair Feeding Recliner Chair
 brand: ~
 sku: UPHO-C-AVAN
 price: $449
-category: Lounges
+category: Lounges/Sofas
 subcategory: ~
 details:
   Description:
