@@ -13,3 +13,6 @@ collections:
 
 url: https://fcgregorio.github.io
 baseurl: /shop
+
+sass:
+  style: compact
