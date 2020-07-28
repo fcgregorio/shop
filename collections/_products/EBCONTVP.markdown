@@ -8,24 +8,18 @@ category: TV Stands
 subcategory: ~
 details:
   Description:
-    800 ETU: ~
-    57H x 80W x 41D: ""
-    Packing: ~
-    Box 1: 7H x 85W x 45D: ""
-    Box 2: 13H x 62.5W x 14D: ""
-    17kg: ""
-    1000 ETU: ~
-    +$50: ""
-    57H x 100W x 45D: ""
-    Packing: ~
-    Box 1: 7H x 104W x 49D
-    Box 2: 13H x 64W x 14D
-    21kg: ""
-    Available In: ~
-    BLACK GLASS/CHROME: ""
-    Tempered Glass: ""
+    Impact-Resistant Edging: ""
+    25mm Thick Top: ""
+    1500W x 450D x 420H mm: ""
+    1510 x 460 x 100 mm: ""
+    42kg: ""
+    luminum Handles: ""
+    Available in 3 Colors: ~
+    Light Oak: ""
+    White: ""
+    Walnut: ""
   Additional Information:
-    MATERIAL: Metal
+    MATERIAL: Premium MDF
 images:
   - d.png
 ---
