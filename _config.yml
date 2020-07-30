@@ -11,8 +11,8 @@ collections:
   products:
     output: true
 
-url: https://fcgregorio.github.io
-baseurl: /shop
+url: http://zahabzze.com.au
+baseurl: /
 
 sass:
   style: compact
