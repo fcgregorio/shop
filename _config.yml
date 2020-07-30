@@ -11,7 +11,7 @@ collections:
   products:
     output: true
 
-url: http://zahabzze.com.au
+url: https://zahabzze.com.au
 baseurl: /
 
 sass:
