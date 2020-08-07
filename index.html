@@ -4,9 +4,7 @@ layout: default
 <div class="columns is-multiline is-mobile">
   {% for product in products %}
     <div class="column is-one-quarter">
-      <div class="tile is-child">
-        {% include product_card.html product=product %}
-      </div>
+      {% include product_card.html product=product %}
     </div>
   {% endfor %}
 </div>
