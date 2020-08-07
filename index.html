@@ -3,13 +3,22 @@ layout: default
 ---
 <div class="container">
     <div class="tile is-ancestor">
-      {% assign products = site.products | sample: 12 %}
+      {% assign size = 12 %}
+      {% assign columns = 4 %}
+      {% assign columnsize = size | divided_by: columns %}
+      {% assign products = site.products | sample: size %}
       {% for product in products %}
-        <div class="tile is-3 is-parent">
-          <div class="tile is-child">
-            {% include product_card.html product=product %}
+        {% if forloop.index0 | modulo: columnsize == 0 %}
+        <div class="tile is-{{columnsize}} is-vertical">
+        {% endif %}
+          <div class="tile is-parent">
+            <div class="tile is-child">
+              {% include product_card.html product=product %}
+            </div>
           </div>
+        {% if forloop.index0 | modulo: columnsize == 0 %}
         </div>
+        {% endif %}
       {% endfor %}
     </div>
 </div>
