@@ -1,9 +1,12 @@
-<div class="card mx-auto shadow-sm" style="width: 18rem;">
-  <a href="{{ site.url }}{{ site.baseurl }}{{ product.url }}" class="stretched-link">
-    <img src="{{ site.baseurl }}/assets/images/products/{{ product.images[0] }}" class="card-img-top" alt="">
-  </a>
-  <div class="card-body">
-    <h5 class="card-title">{{ product.name }}</h5>
-    <h6 class="card-subtitle mb-2 text-muted">{{ product.price }}</h6>
+<div class="card">
+  <div class="card-image">
+    <figure class="image is-4by3">
+      <img src="{{ site.baseurl }}/assets/images/products/{{ product.images[0] }}" class="card-img-top" alt="">
+    </figure>
+  </div>
+  <div class="card-content">
+    <a href="{{ site.url }}{{ site.baseurl }}{{ product.url }}" class="stretched-link">link</a>
+    <p class="title is-4">{{ product.name }}</p>
+    <p class="subtitle is-6">{{ product.price }}</p>
   </div>
 </div>
