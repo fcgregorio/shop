@@ -25,11 +25,9 @@ layout: default
       </figure>
       <div style="display: flex; flex-wrap: wrap;">
         {% for image in page.images %}
-          
             <figure class="image is-128x128">
               <img src="{{ site.baseurl }}/assets/images/products/{{ image }}" alt="">
             </figure>
-          
         {% endfor %}
       </div>
     </div>
@@ -38,18 +36,22 @@ layout: default
       <h3>{{ page.brand }}</h3>
       <h3>SKU: {{ page.sku }}</h3>
       <h3>{{ page.price }}</h3>
-      <div class="card text-center mt-5 mx-lg-5">
-        <div class="card-header">
-          <ul class="nav nav-tabs card-header-tabs" role="tablist">
-            {% for detail in page.details %}
-              {% capture id %}{{ detail[0] | slugify }}-tab{% endcapture %}
-              {% capture href %}#{{ detail[0] | slugify }}{% endcapture %}
-              <li class="nav-item" role="presentation">
-                <a class="nav-link {% if forloop.first == true %}active{% endif %}" id="{{ id }}" data-toggle="tab" href="{{ href }}" role="tab" aria-controls="{{ detail[0] | slugify }}" aria-selected="{% if forloop.first == true %}true{% else %}false{% endif %}">{{ detail[0] }}</a>
-              </li>
-            {% endfor %}
-          </ul>
+      <div class="card">
+        <div class="card-content">
+          
+          <div class="tabs">
+            <ul>
+              {% for detail in page.details %}
+                {% capture id %}{{ detail[0] | slugify }}-tab{% endcapture %}
+                {% capture href %}#{{ detail[0] | slugify }}{% endcapture %}
+                <li class="is-active">
+                  <a id="{{ id }}" href="{{ href }}">{{ detail[0] }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
         </div>
+
         <div class="card-body">
           <div class="tab-content">
             {% for detail in page.details %}
