@@ -56,7 +56,7 @@ window.onload = function() {
     if(!$(event.target).closest("#search").length){
       $('#search').removeClass("is-active");
     } else {
-      if (app.searchResults === 0) {
+      if (app.searchResults.length === 0) {
         $('#search').removeClass("is-active");
       } else {
         $('#search').addClass("is-active");
