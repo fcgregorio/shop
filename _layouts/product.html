@@ -38,7 +38,7 @@ layout: default
           <h3>{{ page.brand }}</h3>
           <h3>SKU: {{ page.sku }}</h3>
           <h3>{{ page.price }}</h3>
-          <div class="tabs">
+          <div class="tabs is-medium is-boxed">
             <ul>
               {% for detail in page.details %}
                 {% capture id %}{{ detail[0] | slugify }}-tab{% endcapture %}
