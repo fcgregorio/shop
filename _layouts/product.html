@@ -51,7 +51,7 @@ layout: default
           </div>
           {% for detail in page.details %}
             {% capture aria-labelledby %}{{ detail[0] | slugify }}-tab{% endcapture %}
-            <section> class="tab-content {% if forloop.first == true %}is-active{% endif %}">
+            <section class="tab-content {% if forloop.first == true %}is-active{% endif %}">
               <table class="table table-sm table-striped">
                 <tbody>
                   {% for attributes in detail[1] %}
