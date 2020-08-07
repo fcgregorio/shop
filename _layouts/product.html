@@ -32,13 +32,12 @@ layout: default
       </div>
     </div>
     <div class="column">
-      <h1>{{ page.name }}</h1>
-      <h3>{{ page.brand }}</h3>
-      <h3>SKU: {{ page.sku }}</h3>
-      <h3>{{ page.price }}</h3>
       <div class="card">
         <div class="card-content">
-          
+          <h1>{{ page.name }}</h1>
+          <h3>{{ page.brand }}</h3>
+          <h3>SKU: {{ page.sku }}</h3>
+          <h3>{{ page.price }}</h3>
           <div class="tabs">
             <ul>
               {% for detail in page.details %}
@@ -48,29 +47,29 @@ layout: default
                   <a id="{{ id }}" href="{{ href }}">{{ detail[0] }}</a>
                 </li>
               {% endfor %}
-              {% for detail in page.details %}
-                {% capture aria-labelledby %}{{ detail[0] | slugify }}-tab{% endcapture %}
-                <div class="tab-pane fade {% if forloop.first == true %}show active{% endif %}" id="{{ detail[0] | slugify }}" role="tabpanel" aria-labelledby="{{ aria-labelledby }}">
-                  <table class="table table-sm table-striped">
-                    <tbody>
-                      {% for attributes in detail[1] %}
-                        <tr>
-                          {% if attributes[1] == null %}
-                            <th scope="row" colspan="2">{{ attributes[0] }}</th>
-                          {% elsif attributes[1] == "" %}
-                            <td colspan="2">{{ attributes[0] }}</td>
-                          {% else %}
-                            <th scope="row">{{ attributes[0] }}</th>
-                            <td>{{ attributes[1] }}</td>
-                          {% endif %}
-                        </tr>
-                      {% endfor %}
-                    </tbody>
-                  </table>
-                </div>
-              {% endfor %}
             </ul>
           </div>
+          {% for detail in page.details %}
+            {% capture aria-labelledby %}{{ detail[0] | slugify }}-tab{% endcapture %}
+            <div class="tab-pane fade {% if forloop.first == true %}show active{% endif %}" id="{{ detail[0] | slugify }}" role="tabpanel" aria-labelledby="{{ aria-labelledby }}">
+              <table class="table table-sm table-striped">
+                <tbody>
+                  {% for attributes in detail[1] %}
+                    <tr>
+                      {% if attributes[1] == null %}
+                        <th scope="row" colspan="2">{{ attributes[0] }}</th>
+                      {% elsif attributes[1] == "" %}
+                        <td colspan="2">{{ attributes[0] }}</td>
+                      {% else %}
+                        <th scope="row">{{ attributes[0] }}</th>
+                        <td>{{ attributes[1] }}</td>
+                      {% endif %}
+                    </tr>
+                  {% endfor %}
+                </tbody>
+              </table>
+            </div>
+          {% endfor %}
         </div>
       </div>
     </div>
