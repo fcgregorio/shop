@@ -43,7 +43,7 @@ layout: default
               {% for detail in page.details %}
                 {% capture id %}{{ detail[0] | slugify }}-tab{% endcapture %}
                 {% capture href %}#{{ detail[0] | slugify }}{% endcapture %}
-                <li>
+                <li class="{% if forloop.first == true %}is-active{% endif %}">
                   <a>{{ detail[0] }}</a>
                 </li>
               {% endfor %}
@@ -51,7 +51,7 @@ layout: default
           </div>
           {% for detail in page.details %}
             {% capture aria-labelledby %}{{ detail[0] | slugify }}-tab{% endcapture %}
-            <section class="tab-content">
+            <section class="tab-content {% if forloop.first == true %}is-active{% endif %}">
               <table class="table is-bordered is-fullwidth">
                 <tbody>
                   {% for attributes in detail[1] %}
