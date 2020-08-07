@@ -51,4 +51,16 @@ window.onload = function() {
         $(".navbar-menu").toggleClass("is-active");
     });
   });
+
+  $(document).on("click", function(event){
+    if(!$(event.target).closest("#search").length){
+      $('#search').removeClass("is-active");
+    } else {
+      if (app.searchResults === 0) {
+        $('#search').removeClass("is-active");
+      } else {
+        $('#search').addClass("is-active");
+      }
+    }
+  });
 }
