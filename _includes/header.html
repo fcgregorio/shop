@@ -1,74 +1,76 @@
-<nav class="navbar" role="navigation" aria-label="main navigation">
-  <div class="navbar-brand">
-    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}">
-      {{ site.title }}
-    </a>
+<nav class="navbar is-link" role="navigation" aria-label="main navigation">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}">
+        <h1 class="title">{{ site.title }}</h1>
+      </a>
 
-    <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-    </a>
-  </div>
-
-  <div id="navbarMenu" class="navbar-menu">
-    <div class="navbar-start">
-      <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link">
-          Categories
-        </a>
-
-        <div class="navbar-dropdown">
-          <div class="nav-item">
-            <h6 class="title is-6">Appliances</h6>
-          </div>
-          <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/categories/{{ "Washing Machines" | slugify }}.html">
-            Washing Machines
-          </a>
-          <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/categories/{{ "Dryers" | slugify }}.html">
-            Dryers
-          </a>
-          <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/categories/{{ "Fridges" | slugify }}.html">
-            Fridges</a>
-          <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/categories/{{ "Televisions" | slugify }}.html">
-            Televisions</a>
-          <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/categories/{{ "Air Conditioning" | slugify }}.html">
-            Air Conditioning</a>
-          <hr class="navbar-divider">
-          <div class="nav-item">
-            <h6 class="title is-6">Furniture</h6>
-          </div>
-          <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/categories/{{ "Lounges/Sofas" | slugify }}.html">
-            Lounges/Sofas
-          </a>
-          <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/categories/{{ "Beds" | slugify }}.html">
-            Beds
-          </a>
-          <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/categories/{{ "Coffee Tables" | slugify }}.html">
-            Coffee Tables
-          </a>
-          <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/categories/{{ "TV Stands" | slugify }}.html">
-            TV Stands
-          </a>
-          <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/categories/{{ "Bedside Tables" | slugify }}.html">
-            Bedside Tables
-          </a>
-          <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/categories/{{ "Dining Tables" | slugify }}.html">
-            Dining Tables
-          </a>
-        </div>
-      </div>
+      <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
     </div>
 
-    <div class="navbar-end">
-      <div class="navbar-item dropdown" id="search">
-        <input class="input" type="text" placeholder="Search..." v-model="searchInput" id="searchInput" autocomplete="off">
-        <div class="dropdown-menu" id="dropdown-menu" role="menu">
-          <div class="dropdown-content">
-            <a v-for="searchResult in searchResults" class="dropdown-item" :key="searchResult.ref" 
-            v-bind:href="'{{ site.url }}{{ site.baseurl }}' + products[parseInt(searchResult.ref, 10)].url">
-              {% raw %}{{ products[parseInt(searchResult.ref, 10)].name }}{% endraw %}
+    <div id="navbarMenu" class="navbar-menu">
+      <div class="navbar-start">
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link">
+            Categories
+          </a>
+
+          <div class="navbar-dropdown">
+            <div class="nav-item">
+              <h6 class="title is-6">Appliances</h6>
+            </div>
+            <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/categories/{{ "Washing Machines" | slugify }}.html">
+              Washing Machines
             </a>
+            <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/categories/{{ "Dryers" | slugify }}.html">
+              Dryers
+            </a>
+            <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/categories/{{ "Fridges" | slugify }}.html">
+              Fridges</a>
+            <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/categories/{{ "Televisions" | slugify }}.html">
+              Televisions</a>
+            <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/categories/{{ "Air Conditioning" | slugify }}.html">
+              Air Conditioning</a>
+            <hr class="navbar-divider">
+            <div class="nav-item">
+              <h6 class="title is-6">Furniture</h6>
+            </div>
+            <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/categories/{{ "Lounges/Sofas" | slugify }}.html">
+              Lounges/Sofas
+            </a>
+            <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/categories/{{ "Beds" | slugify }}.html">
+              Beds
+            </a>
+            <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/categories/{{ "Coffee Tables" | slugify }}.html">
+              Coffee Tables
+            </a>
+            <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/categories/{{ "TV Stands" | slugify }}.html">
+              TV Stands
+            </a>
+            <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/categories/{{ "Bedside Tables" | slugify }}.html">
+              Bedside Tables
+            </a>
+            <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/categories/{{ "Dining Tables" | slugify }}.html">
+              Dining Tables
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="navbar-end">
+        <div class="navbar-item dropdown" id="search">
+          <input class="input" type="text" placeholder="Search..." v-model="searchInput" id="searchInput" autocomplete="off">
+          <div class="dropdown-menu" id="dropdown-menu" role="menu">
+            <div class="dropdown-content">
+              <a v-for="searchResult in searchResults" class="dropdown-item" :key="searchResult.ref" 
+              v-bind:href="'{{ site.url }}{{ site.baseurl }}' + products[parseInt(searchResult.ref, 10)].url">
+                {% raw %}{{ products[parseInt(searchResult.ref, 10)].name }}{% endraw %}
+              </a>
+            </div>
           </div>
         </div>
       </div>
