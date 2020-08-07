@@ -52,7 +52,7 @@ layout: default
           {% for detail in page.details %}
             {% capture aria-labelledby %}{{ detail[0] | slugify }}-tab{% endcapture %}
             <section class="tab-content">
-              <table class="table table-sm table-striped">
+              <table class="table is-bordered is-fullwidth">
                 <tbody>
                   {% for attributes in detail[1] %}
                     <tr>
