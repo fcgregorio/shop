@@ -37,23 +37,11 @@ window.onload = function() {
       },
       searchResults: function(val) {
         if (val.length === 0) {
-          if ($('#search > .dropdown-menu').hasClass("show")){
-            $('#search > .dropdown-toggle').dropdown('toggle');
-          }
+          $('#search').removeClass("is-active");
         } else {
-          if (!$('#search > .dropdown-menu').hasClass("show")){
-            $('#search > .dropdown-toggle').dropdown('toggle');
-          }
+          $('#search').addClass("is-active");
         }
       }
     }
-  });
-
-  $(document).ready(function(){
-    $("#search").on("shown.bs.dropdown", function(event){
-      if (app.searchResults.length === 0) {
-        $("#search > .dropdown-toggle").dropdown('toggle');
-      }
-    });
   });
 }
