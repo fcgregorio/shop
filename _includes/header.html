@@ -61,14 +61,15 @@
     </div>
 
     <div class="navbar-end">
-      <div class="navbar-item">
-        <div class="buttons">
-          <a class="button is-primary">
-            <strong>Sign up</strong>
-          </a>
-          <a class="button is-light">
-            Log in
-          </a>
+      <div class="navbar-item dropdown" id="search">
+        <input class="input" type="text" placeholder="Search..." v-model="searchInput" id="searchInput">
+        <div class="dropdown-menu" id="dropdown-menu" role="menu">
+          <div class="dropdown-content">
+            <a v-for="searchResult in searchResults" class="dropdown-item" :key="searchResult.ref" 
+            v-bind:href="'{{ site.url }}{{ site.baseurl }}' + products[parseInt(searchResult.ref, 10)].url">
+              {% raw %}{{ products[parseInt(searchResult.ref, 10)].name }}{% endraw %}
+            </a>
+          </div>
         </div>
       </div>
     </div>
