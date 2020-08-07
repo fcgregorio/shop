@@ -62,7 +62,7 @@
 
     <div class="navbar-end">
       <div class="navbar-item dropdown" id="search">
-        <input class="input" type="text" placeholder="Search..." v-model="searchInput" id="searchInput">
+        <input class="input" type="text" placeholder="Search..." v-model="searchInput" id="searchInput" autocomplete="off">
         <div class="dropdown-menu" id="dropdown-menu" role="menu">
           <div class="dropdown-content">
             <a v-for="searchResult in searchResults" class="dropdown-item" :key="searchResult.ref" 
