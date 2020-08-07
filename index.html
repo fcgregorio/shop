@@ -1,25 +1,12 @@
 ---
 layout: default
 ---
-<div class="tile is-ancestor">
-  {% assign size = 12 %}
-  {% assign columns = 4 %}
-  {% assign columnwidth = 12 | divided_by: columns %}
-  {% assign columnsize = size | divided_by: columns %}
-  {% assign products = site.products | sample: size %}
+<div class="columns is-multiline is-mobile">
   {% for product in products %}
-    {% assign indexmod = forloop.index0 | modulo: columnwidth %}
-    {% assign columnsizeminusone = columnsize | minus: 1 %}
-    {% if indexmod == 0 %}
-      <div class="tile is-{{columnwidth}} is-vertical">
-    {% endif %}
-    <div class="tile is-parent">
+    <div class="column is-one-quarter">
       <div class="tile is-child">
         {% include product_card.html product=product %}
       </div>
     </div>
-    {% if indexmod == columnsizeminusone %}
-      </div>
-    {% endif %}
   {% endfor %}
 </div>
