@@ -107,5 +107,7 @@ window.onload = function() {
     thumbnails.click(function() {
       mainDisplay.attr('src', $(this).find('img').attr('src'));
     });
+
+    thumbnails[0].click();
   })();
 }
