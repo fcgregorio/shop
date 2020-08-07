@@ -5,8 +5,10 @@ layout: default
     <div class="tile is-ancestor">
       {% assign products = site.products | sample: 12 %}
       {% for product in products %}
-        <div class="tile is-3">
-          {% include product_card.html product=product %}
+        <div class="tile is-3 is-parent">
+          <div class="tile is-child">
+            {% include product_card.html product=product %}
+          </div>
         </div>
       {% endfor %}
     </div>
