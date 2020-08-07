@@ -57,7 +57,7 @@ layout: default
                   {% for attributes in detail[1] %}
                     <tr>
                       {% if attributes[1] == null %}
-                        <th scope="row" colspan="2">{{ attributes[0] }}</th>
+                        <th class="has-text-centered" scope="row" colspan="2">{{ attributes[0] }}</th>
                       {% elsif attributes[1] == "" %}
                         <td colspan="2">{{ attributes[0] }}</td>
                       {% else %}
