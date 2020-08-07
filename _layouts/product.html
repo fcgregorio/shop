@@ -2,8 +2,9 @@
 layout: default
 ---
 <div class="container">
-  <nav aria-label="breadcrumb">
-    <ol class="breadcrumb">
+  <nav class="breadcrumb" aria-label="breadcrumbs">
+    <ol>
+      <li class="is-active"><a href="#" aria-current="page">Breadcrumb</a></li>
       <li class="breadcrumb-item"><a href="{{ site.url }}{{ site.baseurl }}/categories/{{ page.category | slugify }}.html">{{ page.category }}</a></li>
       {% if page.subcategory %}<li class="breadcrumb-item"><a href="{{ site.url }}{{ site.baseurl }}/categories/{{ page.category | slugify }}/{{ page.subcategory | slugify }}.html">{{ page.subcategory }}</a></li>{% endif %}
       <li class="breadcrumb-item active" aria-current="page">{{ page.sku }}</li>
