@@ -2,10 +2,10 @@
 layout: default
 ---
 <div class="container">
-    <div class="columns">
+    <div class="tile is-ancestor">
       {% assign products = site.products | sample: 12 %}
       {% for product in products %}
-        <div class="column is-one-quarter">
+        <div class="tile is-4">
           {% include product_card.html product=product %}
         </div>
       {% endfor %}
