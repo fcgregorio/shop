@@ -1,12 +1,12 @@
 <a href="{{ site.url }}{{ site.baseurl }}{{ product.url }}">
-  <div class="card">
+  <div class="card" style="height: 100%">
     <div class="card-image">
       <figure class="image is-4by3">
         <img src="{{ site.baseurl }}/assets/images/products/{{ product.images[0] }}" class="card-img-top" alt="">
       </figure>
     </div>
     <div class="card-content">
-      <p class="title is-4" style="display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;">{{ product.name }}</p>
+      <p class="title is-4">{{ product.name }}</p>
       <p class="subtitle is-6 has-text-success has-text-weight-bold is-family-monospace has-text-right">{{ product.price }}</p>
     </div>
   </div>
