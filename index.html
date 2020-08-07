@@ -8,17 +8,17 @@ layout: default
       {% assign columnsize = size | divided_by: columns %}
       {% assign products = site.products | sample: size %}
       {% for product in products %}
-        {% assign indexmod = forloop.index0 | modulo: columnsize}
+        {% assign indexmod = forloop.index0 | modulo: columnsize %}
         {% if indexmod == 0 %}
-        <div class="tile is-{{columnsize}} is-vertical">
+          <div class="tile is-{{columnsize}} is-vertical">
         {% endif %}
-          <div class="tile is-parent">
-            <div class="tile is-child">
-              {% include product_card.html product=product %}
-            </div>
+        <div class="tile is-parent">
+          <div class="tile is-child">
+            {% include product_card.html product=product %}
           </div>
-        {% if indexmod == 0 %}
         </div>
+        {% if indexmod == 0 %}
+          </div>
         {% endif %}
       {% endfor %}
     </div>
