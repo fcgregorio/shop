@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-<div class="columns is-multiline is-mobile">
+<div class="columns is-multiline">
   {% assign size = 12 %}
   {% assign products = site.products | sample: size %}
   {% for product in products %}
-    <div class="column is-one-quarter">
+    <div class="column is-one-third">
       {% include product_card.html product=product %}
     </div>
   {% endfor %}
