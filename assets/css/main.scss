@@ -9,3 +9,16 @@
 #navBarSearchForm input[type=search] {
   width:430px;
 }
+
+.tabs:not(:last-child) {
+  margin-bottom: 0;
+}
+
+.tab-content {
+  padding: 1rem;
+  display: none;
+}
+
+.tab-content.is-active {
+  display: block;
+}
