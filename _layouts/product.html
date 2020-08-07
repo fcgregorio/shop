@@ -34,10 +34,10 @@ layout: default
     <div class="column">
       <div class="card">
         <div class="card-content">
-          <h1>{{ page.name }}</h1>
-          <h3>{{ page.brand }}</h3>
-          <h3>SKU: {{ page.sku }}</h3>
-          <h3>{{ page.price }}</h3>
+          <h1 class="title">{{ page.name }}</h1>
+          <h2 class="subtitle">{{ page.brand }}</h2>
+          <h3 class="subtitle">SKU: {{ page.sku }}</h3>
+          <h3 class="subtitle">{{ page.price }}</h3>
           <div class="tabs is-medium">
             <ul>
               {% for detail in page.details %}
