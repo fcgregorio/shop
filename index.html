@@ -5,19 +5,20 @@ layout: default
     <div class="tile is-ancestor">
       {% assign size = 12 %}
       {% assign columns = 4 %}
+      {% assign columnwidth = 12 | divided_by: columns %}
       {% assign columnsize = size | divided_by: columns %}
       {% assign products = site.products | sample: size %}
       {% for product in products %}
-        {% assign indexmod = forloop.index0 | modulo: columnsize %}
+        {% assign indexmod = forloop.index0 | modulo: columnwidth %}
         {% if indexmod == 0 %}
-          <div class="tile is-{{columnsize}} is-vertical">
+          <div class="tile is-{{columnwidth}} is-vertical">
         {% endif %}
         <div class="tile is-parent">
           <div class="tile is-child">
             {% include product_card.html product=product %}
           </div>
         </div>
-        {% if indexmod == 0 %}
+        {% if indexmod == columnsize | minus: 1 %}
           </div>
         {% endif %}
       {% endfor %}
