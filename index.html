@@ -10,6 +10,7 @@ layout: default
       {% assign products = site.products | sample: size %}
       {% for product in products %}
         {% assign indexmod = forloop.index0 | modulo: columnwidth %}
+        {% assign columnsizeminusone = columnsize | minus: 1 %}
         {% if indexmod == 0 %}
           <div class="tile is-{{columnwidth}} is-vertical">
         {% endif %}
@@ -18,7 +19,7 @@ layout: default
             {% include product_card.html product=product %}
           </div>
         </div>
-        {% if indexmod == columnsize | minus: 1 %}
+        {% if indexmod == columnsizeminusone %}
           </div>
         {% endif %}
       {% endfor %}
