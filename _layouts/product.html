@@ -18,15 +18,30 @@ layout: default
     </ol>
   </nav>
 
+  <div class="columns">
+    <div class="column">
+      <figure class="image is-square">
+        <img src="https://bulma.io/images/placeholders/256x256.png">
+      </figure>
+    </div>
+    <div class="column">
+      <div class="columns is-multiline">
+        {% for image in page.images %}
+          <div class="column">
+            <figure class="image is-square">
+              <img src="{{ site.baseurl }}/assets/images/products/{{ image }}" alt="">
+            </figure>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
   <div class="row">
     <div class="col-lg-6">
       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
-          {% for image in page.images %}
-            <div class="carousel-item {% if forloop.first == true %}active{% endif %}">
-              <img class="d-block w-100" src="{{ site.baseurl }}/assets/images/products/{{ image }}" alt="">
-            </div>
-          {% endfor %}
+          
         </div>
         <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
