@@ -37,9 +37,9 @@ window.onload = function() {
       },
       searchResults: function(val) {
         if (val.length === 0) {
-          $('#search').removeClass("is-active");
+          $('#search > .dropdown').removeClass("is-active");
         } else {
-          $('#search').addClass("is-active");
+          $('#search > .dropdown').addClass("is-active");
         }
       }
     }
@@ -54,12 +54,12 @@ window.onload = function() {
 
   $(document).on("click", function(event){
     if(!$(event.target).closest("#search").length){
-      $('#search').removeClass("is-active");
+      $('#search > .dropdown').removeClass("is-active");
     } else {
       if (app.searchResults.length === 0) {
-        $('#search').removeClass("is-active");
+        $('#search > .dropdown').removeClass("is-active");
       } else {
-        $('#search').addClass("is-active");
+        $('#search > .dropdown').addClass("is-active");
       }
     }
   });
