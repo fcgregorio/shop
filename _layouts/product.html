@@ -21,13 +21,15 @@ layout: default
   <div class="columns">
     <div class="column">
       <figure class="image is-square">
-        <img src="">
+        <img id="mainDisplay" src="">
       </figure>
-      <div style="display: flex; flex-wrap: wrap;">
+      <div id="thumbnails" style="display: flex; flex-wrap: wrap;">
         {% for image in page.images %}
+          <a>
             <figure class="image is-128x128">
               <img src="{{ site.baseurl }}/assets/images/products/{{ image }}" alt="">
             </figure>
+          </a>
         {% endfor %}
       </div>
     </div>

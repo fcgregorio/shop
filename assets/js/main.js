@@ -64,40 +64,48 @@ window.onload = function() {
     }
   });
 
-let tabsWithContent = (function () {
-  let tabs = document.querySelectorAll('.tabs li');
-  let tabsContent = document.querySelectorAll('.tab-content');
+  let tabsWithContent = (function () {
+    let tabs = document.querySelectorAll('.tabs li');
+    let tabsContent = document.querySelectorAll('.tab-content');
 
-  let deactvateAllTabs = function () {
+    let deactvateAllTabs = function () {
+      tabs.forEach(function (tab) {
+        tab.classList.remove('is-active');
+      });
+    };
+
+    let hideTabsContent = function () {
+      tabsContent.forEach(function (tabContent) {
+        tabContent.classList.remove('is-active');
+      });
+    };
+
+    let activateTabsContent = function (tab) {
+      tabsContent[getIndex(tab)].classList.add('is-active');
+    };
+
+    let getIndex = function (el) {
+      return [...el.parentElement.children].indexOf(el);
+    };
+
     tabs.forEach(function (tab) {
-      tab.classList.remove('is-active');
+      tab.addEventListener('click', function () {
+        deactvateAllTabs();
+        hideTabsContent();
+        tab.classList.add('is-active');
+        activateTabsContent(tab);
+      });
+    })
+
+    tabs[0].click();
+  })();
+
+  let imageSwitch = (function () {
+    let mainDisplay = $('#mainDisplay');
+    let thumbnails = $('#thumbnails a');
+
+    thumbnails.click(function() {
+      mainDisplay.attr('src', $(this).find('img').attr('src'));
     });
-  };
-
-  let hideTabsContent = function () {
-    tabsContent.forEach(function (tabContent) {
-      tabContent.classList.remove('is-active');
-    });
-  };
-
-  let activateTabsContent = function (tab) {
-    tabsContent[getIndex(tab)].classList.add('is-active');
-  };
-
-  let getIndex = function (el) {
-    return [...el.parentElement.children].indexOf(el);
-  };
-
-  tabs.forEach(function (tab) {
-    tab.addEventListener('click', function () {
-      deactvateAllTabs();
-      hideTabsContent();
-      tab.classList.add('is-active');
-      activateTabsContent(tab);
-    });
-  })
-
-  tabs[0].click();
-})();
-
+  })();
 }
