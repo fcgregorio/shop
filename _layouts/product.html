@@ -38,7 +38,7 @@ layout: default
           <h1 class="title">{{ page.name }}</h1>
           <h1 class="subtitle has-text-right">{{ page.brand }}<br>SKU: {{ page.sku }}</h1>
           
-          <div class="tabs is-medium">
+          <div class="tabs is-centered is-medium">
             <ul>
               {% for detail in page.details %}
                 {% capture id %}{{ detail[0] | slugify }}-tab{% endcapture %}
