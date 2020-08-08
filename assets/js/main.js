@@ -116,9 +116,9 @@ window.onload = function() {
 
     items.on({
       mouseenter: function() {
-        $(this).css({'border': '1px solig lightgray', 'margin': '-1px'});
+        $(this).css({'border': '1px solid lightgray', 'margin': '-1px'});
       }, mouseleave: function() {
-        $(this).css({'border': 'none'});
+        $(this).css({'border': 'none', 'margin': '0px'});
       }
     });
   })();
