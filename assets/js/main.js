@@ -114,11 +114,12 @@ window.onload = function() {
   let hoverBox = (function(){
     let items = $('.hoverbox');
 
-    items.mouseenter(function(){
+    items.on({
+      mouseenter: function() {
         $(this).add('box');
-      })
-    .mouseleave(function(){
+      }, mouseleave: function() {
         $(this).remove('box');
-      });
+      }
+    });
   })();
 }
