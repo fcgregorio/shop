@@ -1,19 +1,19 @@
-<a href="{{ site.url }}{{ site.baseurl }}{{ product.url }}">
+<a href="{{ site.url }}{{ site.baseurl }}{{ include.product.url }}">
   <div class="hoverbox px-0 py-0 has-background-light" style="height: 100%; position: relative; border: 
   solid 1px #3273dc;">
     <div style="position: absolute; height: 100%; width: 100%;"></div>
     <figure class="image is-4by3">
-      <img src="{{ site.baseurl }}/assets/images/products/{{ product.images[0] }}" class="card-img-top" alt="">
+      <img src="{{ site.baseurl }}/assets/images/products/{{ include.product.images[0] }}" class="card-img-top" alt="">
     </figure>
-    <p class="title is-5 px-1 pb-2">{{ product.name }}</p>
+    <p class="title is-5 px-1 pb-2">{{ include.product.name }}</p>
     <p 
       class="subtitle is-5 has-text-success has-text-weight-bold is-family-monospace has-text-right px-1 py-1"
       style="position: absolute; bottom: 0; right: 0;">
-      {{ product.price }}
+      {{ include.product.price }}
     </p>
     {% if show_category %}
-      <a href="{{ site.url }}{{ site.baseurl }}/categories/{{ product.category | slugify }}">
-        <span class="tag is-link mx-1 my-1" style="position: absolute; top: 0; right: 0;">{{ product.category }}</span>
+      <a href="{{ site.url }}{{ site.baseurl }}/categories/{{ include.product.category | slugify }}">
+        <span class="tag is-link mx-1 my-1" style="position: absolute; top: 0; right: 0;">{{ include.product.category }}</span>
       </a>
     {% endif %}
   </div>
