@@ -121,5 +121,6 @@ window.onload = function() {
         $(this).remove('box');
       }
     });
+    console.log("here");
   })();
 }
