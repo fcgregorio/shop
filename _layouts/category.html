@@ -6,7 +6,7 @@ layout: default
   {% assign products = site.products | where: "category", page.category %}
   {% for product in products %}
     <div class="column is-one-fifth">
-      {% include product_card.html product=product %}
+      {% include product_card.html product=product show_category=false %}
     </div>
   {% endfor %}
 </div>
