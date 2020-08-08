@@ -114,11 +114,14 @@ window.onload = function() {
   let hoverBox = (function(){
     let items = $('.hoverbox');
 
+    items.attr('border-width', 'thin')
+    .attr('border-color', 'lightgray');
+
     items.on({
       mouseenter: function() {
-        $(this).add('box');
+        $(this).attr('border', 'solid');
       }, mouseleave: function() {
-        $(this).remove('box');
+        $(this).attr('border', 'none');
       }
     });
   })();
