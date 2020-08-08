@@ -32,9 +32,11 @@ layout: default
       <div id="thumbnails" style="display: flex; flex-wrap: wrap;">
         {% for image in page.images %}
           <a>
+            <div class="hoverbox has-background-light" style="border: solid 1px #3273dc;">
             <figure class="image is-128x128">
               <img src="{{ site.baseurl }}/assets/images/products/{{ image }}" alt="">
             </figure>
+            </div>
           </a>
         {% endfor %}
       </div>
