@@ -5,15 +5,21 @@ layout: default
   <nav class="breadcrumb has-bullet-separator" aria-label="breadcrumbs">
     <ol>
       <li>
-        <a href="{{ site.url }}{{ site.baseurl }}/categories/{{ page.category | slugify }}.html">{{ page.category }}</a>
+        <a href="{{ site.url }}{{ site.baseurl }}/categories/{{ page.category | slugify }}.html"
+        class="has-text-link-light">
+          {{ page.category }}
+        </a>
       </li>
       {% if page.subcategory %}
         <li>
-          <a href="{{ site.url }}{{ site.baseurl }}/categories/{{ page.category | slugify }}/{{ page.subcategory | slugify }}.html">{{ page.subcategory }}</a>
+          <a href="{{ site.url }}{{ site.baseurl }}/categories/{{ page.category | slugify }}/{{ page.subcategory | slugify }}.html"
+          class="has-text-link-light">
+            {{ page.subcategory }}
+          </a>
         </li>
       {% endif %}
       <li class="is-active">
-        <a href="#" aria-current="page">{{ page.sku }}</a>
+        <a href="#" aria-current="page" class="has-text-link-light">{{ page.sku }}</a>
       </li>
     </ol>
   </nav>
