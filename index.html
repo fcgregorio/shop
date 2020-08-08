@@ -5,7 +5,7 @@ layout: default
   {% assign size = 12 %}
   {% assign products = site.products | sample: size %}
   {% for product in products %}
-    <div class="column is-one-fifth">
+    <div class="column is-one-fifth px-0 py-0">
       {% include product_card.html product=product %}
     </div>
   {% endfor %}

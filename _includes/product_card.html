@@ -1,12 +1,12 @@
 <a href="{{ site.url }}{{ site.baseurl }}{{ product.url }}">
-  <div class="hoverbox" style="height: 100%; padding: 0;">
+  <div class="hoverbox px-0 py-0" style="height: 100%;">
     <figure class="image is-4by3">
       <img src="{{ site.baseurl }}/assets/images/products/{{ product.images[0] }}" class="card-img-top" alt="">
     </figure>
     <p class="title is-4">{{ product.name }}</p>
     <p 
       class="subtitle is-6 has-text-success has-text-weight-bold is-family-monospace has-text-right"
-      style="height: 100%; padding: 0; position: absolute; bottom: 0; right: 0;">
+      style="position: absolute; bottom: 0; right: 0;">
       {{ product.price }}
     </p>
   </div>

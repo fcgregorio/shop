@@ -88,7 +88,7 @@ window.onload = function() {
       return [...el.parentElement.children].indexOf(el);
     };
 
-    tabs.forEach(function (tab) {
+    tabs.forEach(function(tab){
       tab.addEventListener('click', function () {
         deactvateAllTabs();
         hideTabsContent();
@@ -100,7 +100,7 @@ window.onload = function() {
     tabs[0].click();
   })();
 
-  let imageSwitch = (function () {
+  let imageSwitch = (function(){
     let mainDisplay = $('#mainDisplay');
     let thumbnails = $('#thumbnails a');
 
@@ -111,14 +111,14 @@ window.onload = function() {
     thumbnails[0].click();
   })();
 
-  let hoverBox = (function () {
+  let hoverBox = (function(){
     let items = $('.hoverbox');
 
-    items.hover(function(){
+    items.mouseenter(function(){
         $(this).add('box');
-      },function(){
+      })
+    .mouseleave(function(){
         $(this).remove('box');
-      }
-    );
+      });
   })();
 }
