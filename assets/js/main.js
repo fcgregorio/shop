@@ -113,7 +113,8 @@ window.onload = function() {
 
   $(function(){
     $('.truncate').succinct({
-        size: 120
+        size: 120,
+        ignore: false
     });
   });
 }
