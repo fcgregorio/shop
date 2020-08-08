@@ -97,7 +97,7 @@ window.onload = function() {
       });
     })
 
-    tabs[0].click();
+    if (tabs[0]) tabs[0].click();
   })();
 
   let imageSwitch = (function(){
@@ -108,7 +108,7 @@ window.onload = function() {
       mainDisplay.attr('src', $(this).find('img').attr('src'));
     });
 
-    thumbnails[0].click();
+    if (thumbnails[0]) thumbnails[0].click();
   })();
 
   let hoverBox = (function(){
@@ -121,6 +121,5 @@ window.onload = function() {
         $(this).remove('box');
       }
     });
-    console.log("here");
   })();
 }
