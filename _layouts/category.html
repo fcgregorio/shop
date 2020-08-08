@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1 class="title is-1">{{ page.category }}</h3>
+<h1 class="title has-text-link-light is-1">{{ page.category }}</h3>
 <div class="columns is-multiline">
   {% assign products = site.products | where: "category", page.category %}
   {% for product in products %}
