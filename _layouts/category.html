@@ -5,7 +5,7 @@ layout: default
 <div class="columns is-multiline">
   {% assign products = site.products | where: "category", page.category %}
   {% for product in products %}
-    <div class="column is-one-quarter">
+    <div class="column is-one-fifth">
       {% include product_card.html product=product %}
     </div>
   {% endfor %}
