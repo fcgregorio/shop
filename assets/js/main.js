@@ -114,7 +114,7 @@ window.onload = function() {
   let hoverBox = (function(){
     let items = $('.hoverbox');
 
-    items.css({'border-width': 'thin', 'border-color', 'lightgray'});
+    items.css({'border-width': 'thin', 'border-color': 'lightgray'});
     items.on({
       mouseenter: function() {
         $(this).css({'border': 'solid'});
