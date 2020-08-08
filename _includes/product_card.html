@@ -10,6 +10,6 @@
       style="position: absolute; bottom: 0; right: 0;">
       {{ product.price }}
     </p>
-    <a href="{{ site.url }}{{ site.baseurl }}/categories/{{ product.category }}"><span class="tag is-link px-1 py-1" style="position: absolute; top: 0; right: 0;">{{ product.category }}</span></a>>
+    <a href="{{ site.url }}{{ site.baseurl }}/categories/{{ product.category | slugify }}"><span class="tag is-link mx-1 my-1" style="position: absolute; top: 0; right: 0;">{{ product.category }}</span></a>
   </div>
 </a>
