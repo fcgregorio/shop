@@ -110,4 +110,15 @@ window.onload = function() {
 
     thumbnails[0].click();
   })();
+
+  let hoverBox = (function () {
+    let items = $('.hoverbox');
+
+    items.hover(function(){
+        $(this).add('box');
+      },function(){
+        $(this).remove('box');
+      }
+    );
+  })();
 }
