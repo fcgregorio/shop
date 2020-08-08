@@ -110,4 +110,10 @@ window.onload = function() {
 
     thumbnails[0].click();
   })();
+
+  $(function(){
+    $('.truncate').succinct({
+        size: 120
+    });
+  });
 }
