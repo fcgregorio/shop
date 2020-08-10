@@ -30,7 +30,7 @@ details:
     TV Screen Size: 51 -60 inch
     Warranty: 3 Years
 images:
-  - TCL-50P8M-50”-QUHD-TV-AI-IN-MAIN.jpg
+  - Hisense-58S5-58inch-UHD-4K-TV-SERIES-S5-main.jpg
   - Hisense-58S5-58inch-UHD-4K-TV-SERIES-S5-base.jpg
   - Hisense-58S5-58inch-UHD-4K-TV-SERIES-S5-side-700x550.jpg
   - Hisense-58S5-58inch-UHD-4K-TV-SERIES-S5-back-700x550.jpg
