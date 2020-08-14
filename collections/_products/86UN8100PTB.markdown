@@ -1,0 +1,106 @@
+---
+layout: product
+name: LG 86UN8100PTB 86 Inch Ultra HD 4K Smart TV
+brand: LG
+sku: 86UN8100PTB
+price: $3,999
+category: Televisions
+subcategory: Ultra HD Televisions
+details:
+  Description:
+    DISPLAY & PICTURE QUALITY: ~
+    Screen Type: LED/LCD
+    Resolution: 3840 x 2160
+    Motion Rate: Tru Motion 200 with backlight scanning
+    HDR Format: Dolby VisionTM, HDR10, HLG
+    Dolby Vision IQ™1: Yes
+    HDR10 Pro: Yes
+    Wide Colour Gamut: Yes
+    Backlight Type: Direct
+    Picture Modes: 10 (Vivid, Standard, FILMMAKER MODE™, APS, Cinema, Cricket, Game, HDR Effect, ISF Bright Room, ISF Dark Room)
+    HDR Picture Modes: 5 (Vivid, Standard, FILMMAKER MODE™, Cinema Home, Cinema)
+    Dolby Vision ™ Picture Modes: 5 (Vivid, Standard, Cinema Home, Cinema, Game)
+    Colour Bit Depth: 10-bit Processing
+    Image Processor: α7 Gen 3 AI Processor 4K
+    Tuner: MPEG-2/4 DVB-T2 (Single)
+    Resolution Upscaling2: 4K Upscaler
+    AI Picture: Yes
+    FILMMAKER MODE™: Yes
+    Motion Pro (Black Frame Insertion): Yes
+    Noise Reduction: Yes
+    High Frame Rate (HFR)3: Yes
+    CONVENIENCE FEATURES: ~
+    Magic Remote: Yes
+    Intelligent Voice Control4: Yes
+    Electronic Programme Guide (SI - 8 days): Yes
+    User Guide (Built-in): Yes
+    Time Machine Compatible: Yes
+    Time Shift: Yes
+    Universal Remote Feature7: Yes
+    Video Playback Formats: ASF/WMV/AVI (Xvid, H.264/AVC)/ MP4/M4v/MOV (H.264, H.265, MPEG-4, HEVC)/ MKV (MPEG-2, MPEG-4, H.264, H.265, VP8, HEVC) SHVC/TS/TRP/TP/MTS/MPG/3GP/3G2/ MPEG/DAT/VOB/ HEVC / VP9 & AV1 (Up to 4096x2160 @ 60p
+    Music Playback Formats: MP3/WAV/WMA/OGG/FLAC
+    Photo Playback Formats: JPEG/PNG/BMP
+    Gallery: Yes
+    Sports Alert: Yes
+    SIMPLINK (HDMI CEC): Yes
+    GAMING FEATURES: ~
+    HGiG Mode: Yes
+    Auto Low Latency Mode (ALLM): Yes
+    AUDIO FEATURES: ~
+    Audio Output: 20W
+    Audio Decoder: AC3, HE-AAC, AAC, MP2, MP3, PCM, DTS, DTS-HD, DTS Express, WMA, apt-X, ADPCM, LPCM, MPEG-1, Dolby Digital, Dolby Digital Plus, Dolby AC-4, Dolby Atmos
+    Virtual Surround: Ultra Surround
+    Bluetooth Music Playback: Yes
+    Sound Modes: 6 (Standard, Cinema, Clear Voice III, Cricket (Sports), Music, Game)
+    AI Sound: Yes
+    Headphone Bluetooth Compatible: Yes
+    Bluetooth Surround Compatible: Yes (4.2+)
+    Sound Sync Wireless (LG TV): Yes
+    Audio Return Channel (ARC): eARC / ARC
+    SMART TV FEATURES: ~
+    AI ThinQ: Yes
+    Smart TV Operating System: webOS 5.0 Smart TV
+    Google Assistant: Yes
+    Amazon Alexa: Yes
+    Works with Apple HomeKit: Yes
+    Home Dashboard: Yes
+    Wi-Fi: Yes
+    4K UHD Streaming: Yes
+    Web Browser: Yes
+    FreeviewPlus (HbbTV): Yes
+    Netflix: Yes
+    Disney+: Yes
+    AppleTV: Yes
+    Google Home Compatible: Yes
+    SMART SHARE FEATURES: ~
+    Network File Browser: Yes
+    Miracast: Yes
+    Smartphone Remote App: LG TV Plus
+    Works with Apple AirPlay: Yes
+    CONNECTIONS: ~
+    HDMI: 4
+    USB 2.0: 3
+    RF Antenna Input: 1
+    Component/Composite Input: 1
+    Digital (Optical) Audio Output: 1
+    LAN Port: 1
+    DIMENSIONS AND REGULATORY: ~
+    TV with Stand (WxHxD): 1943mm x 1198mm x 426mm
+    TV without Stand (WxHxD): 1943mm x 1118mm x 94mm
+    TV Stand (WxD): 1196mm x 426mm
+    Net Weight with Stand (kg): 48.3kg
+    Net Weight without Stand (kg): 44.6kg
+    Carton (WxHxD): 2116mm x 1217mm x 325mm
+  Gross Weight of Carton (kg):  63.1kg
+  VESA size:  600 x 400
+  Energy Star Rating: 4 ½ Stars
+  WARRANTY PERIOD: ~
+  Domestic Warranty:  1 Year Warranty - Parts and Labour
+  Additional Information:
+images:
+  - 700x550xLG-86UN8100PTB-86-Inch-Ultra-HD-4K-Smart-TV-Main.jpg.pagespeed.ic.nWO6PiaPUd.jpg
+  - LG-86UN8100PTB-86-Inch-Ultra-HD-4K-Smart-TV-Angle.jpg
+  - LG-86UN8100PTB-86-Inch-Ultra-HD-4K-Smart-TV-Left-Angle.jpg
+  - download.webp
+  - LG-86UN8100PTB-86-Inch-Ultra-HD-4K-Smart-TV-Stand.jpg
+---

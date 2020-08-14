@@ -1,0 +1,51 @@
+---
+layout: product
+name: Fisher & Paykel DE6060M2 6kg Vented Dryer
+brand: Fisher & Paykel
+sku: DE6060M2
+price: $599
+category: Dryers
+subcategory: Vented Dryers
+details:
+  Description:
+    Product Type: Vented Dryer
+    Dry Features:
+    180° door opening: Yes
+    Delay start: Yes
+    Easy access lint filter: Yes
+    End of cycle signal: Yes
+    Keylock: Yes
+    Lint filter indicator: Yes
+    Progress indicator: Yes
+    Safety restart switch: Yes
+    Time to go indicator: Yes
+    Performance: ~
+    Auto sensing: Yes
+    Choice of front or rear venting: Yes
+    Dryness levels: 3
+    Reverse tumbling: Yes
+    Temperature settings: 4
+    Timed dry: Yes
+    Dry Cycles: ~
+    Delicate: Yes
+    Everyday: Yes
+    Heavy: Yes
+    Time Dry: Yes
+    Consumption: ~
+    Star Energy: 2
+    Dimensions: ~
+    Depth: 571mm
+    Height: 825mm
+    Width: 600mm
+    Warranty: ~
+    Parts & Labour: 2 years
+  Additional Information:
+    Warranty: 2 Years
+    Brand: Fisher & Paykel
+    Energy Rating: 2.5
+    Price Ranges: $500 – $800
+images:
+  - Fisher-Paykel-DE6060M2-6kg-Vented-Dryer-Main.jpg
+  - Fisher-Paykel-DE6060M2-6kg-Vented-Dryer-Angle.jpg
+  - Fisher-Paykel-DE6060M2-6kg-Vented-Dryer-Front.jpg
+---

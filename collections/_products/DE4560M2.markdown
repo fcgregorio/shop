@@ -1,0 +1,35 @@
+---
+layout: product
+name: Fisher And Paykel DE4560M2 4.5Kg Vented Dryer
+brand: Fisher And Paykel
+sku: DE4560M2
+price: $519
+category: Dryers
+subcategory: Vented Dryers
+details:
+  Description:
+    Model: DE4560M2
+    Type: Vented Dryer
+    Colour: White
+    Drying Capacity: 4.5Kg
+    Energy Rating: 2 Star
+    Features: ~
+    Wall Mountable: Yes
+    No. Of Programs: 4
+    Reverse Tumbling: Yes
+    Auto-sensing: Yes
+    Dimensions: ~
+    Product Dimensions (WxHxD): 600x825x481mm
+    Warranty: ~
+    Warranty: 2 Years
+  Additional Information:
+    Brand: Fisher & Paykel
+    Colour: White
+    Energy Rating: 2
+    Warranty: 2 Years
+    Price Ranges: $500 – $800
+images:
+  - Fisher-Paykel-DE4560M2-4.5Kg-Vented-Dryer-main.jpg
+  - Fisher-Paykel-DE4560M2-4.5Kg-Vented-Dryer-long.jpg
+  - Fisher-Paykel-DE4560M2-4.5Kg-Vented-Dryer-diagonal.jpg
+---

@@ -1,0 +1,51 @@
+---
+layout: product
+name: CHiQ U43H10 43 Inch 4K UHD Android Television
+brand: Chiq
+sku: U43H10
+price: $599
+category: Televisions
+subcategory: Ultra HD Televisions
+details:
+  Description:
+    Display: ~
+    Resolution: 3840 x 2160
+    Contrast Ratio: 4000
+    View Angle: 178°(H)/178°(V)
+    Response Time: 8ms
+    Audio: ~
+    Audio Output: 2 x 10 WATT
+    Dolby: DAP
+    Terminals: ~
+    HDMI2.0: x 3
+    USB2.0: x 2
+    AV In: x 1
+    Headphone: x 1
+    LAN: x 1
+    SPDIF(OPTICAL): x 1
+    Features: ~
+    Google Play: A global online store to find, enjoy, and share your favorite apps, games, movies, music, and books on all your favorite devices.
+    Google Assistant: Your own personal Google assistant , always ready to help.
+    Chromecast Built-in: Cast your favorite entertainment content from your Android or iOS device.
+    Bluetooth 5.0: Expand your TV with the compatible bluetooth devices.
+    Frameless design: Picture or video occupies the whole TV screen. The picture seems bigger than regular televisions.
+    Wall Mounting: ~
+    VESA: 200 x 200 mm
+    Dimensions (W x D x H) mm: ~
+    Without Stand: 963 x 81 x 567
+    With Stand: 963 x 180 x 617
+    Package: 1085 x 135 x 655
+    Weight: Net 6.4kg/Gross 8.8kg
+    Warranty: ~
+    Domestic Warranty: 3 Years
+  Additional Information:
+    Weight: 9 kg
+    Dimensions: 109 × 14 × 66 cm
+    Warranty: 3 Years
+images:
+  - xCHiQ-U43H10-43-Inch-4K-UHD-Android-Television-Main.jpg.pagespeed.ic.WQXA6DEdfX.jpg
+  - CHiQ-U43H10-43-Inch-4K-UHD-Android-Television-Back.jpg
+  - download.webp
+  - CHiQ-U43H10-43-Inch-4K-UHD-Android-Television-Top.jpg
+  - CHiQ-U43H10-43-Inch-4K-UHD-Android-Television-Remote.jpg
+---

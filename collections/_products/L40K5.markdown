@@ -1,0 +1,39 @@
+---
+layout: product
+name: Chiq L40K5 40 inch Full HD Smart LED Tv
+brand: Chiq
+sku: L40K5
+price: $499
+category: Televisions
+subcategory: Full HD Televisions
+details:
+  Description:
+    Type: Full HD Smart LED LCD TV
+    Size: 40 Inch
+    Resolution: 1920 x 1080
+    EAN: 6926130564790
+    Features: ~
+    Chromecast: Yes
+    Android: Yes
+    Netflix: Yes
+    HDR 10: Yes
+    Dolby Audio: Yes
+    Voice Control: Yes
+    Bluetooth: Yes
+    Wifi: Yes
+    Energy Rating: 5 stars
+    Dimensions: ~
+    Product Dimensions (HxWxD): 596x900x179mm
+    Weight: 8 kg
+    Warranty: ~
+    Warranty: 3 years
+  Additional Information:
+    Brand: ChiQ
+    Energy Rating: 5
+    TV Screen Size: 31 – 40 inch
+    Warranty: 3 Years
+images:
+  - Chiq-L40K5-40-inch-Full-HD-Smart-LED-Tv-Main.jpg
+  - Chiq-L40K5-40-inch-Full-HD-Smart-LED-Tv-Back.jpg
+  - Chiq-L40K5-40-inch-Full-HD-Smart-LED-Tv-Side.jpg
+---

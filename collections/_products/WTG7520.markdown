@@ -1,0 +1,49 @@
+---
+layout: product
+name: LG WTG7520 7.5kg Top Load Washing Machine
+brand: LG
+sku: WTG7520
+price: $749
+category: Washing Machines
+subcategory: Top Load Washing Machines
+details:
+  Description:
+    Model: WTG7520
+    Ean: 8806098412280
+    Type: Top Load Washing Machine
+    Colour: White
+    Capacity: 7.5kg
+    Max Speed Spin (rpm): 740(rpm)
+    Energy Rating: 3
+    Number of Programs: 7
+    Control Type: Electronic Press Button
+    WELS Water Rating: 3
+    Water Consumption Per Wash: 110L
+    Energy Consumption: 413 (Kw Hr/Yr)
+    Water Connection: Hot & Cold
+    Additional Features: ~
+    Child Lock: Yes
+    Delicate Settings: Yes
+    Quiet Operation: Yes
+    Dimensions: ~
+    Product Height (mm): 960
+    Product Depth (mm): 620
+    Product Width (mm): 590
+    Product Weight (kg): 39
+    Warranty: ~
+    Warranty: 10 Year Parts Warranty (2 Years Parts & Labour + 8 Years on Smart Inverter Motor parts only)
+  Additional Information:
+    Brand: LG
+    Energy Rating: 3
+    Price Ranges: $500 – $800
+    Warranty: 2 Years
+    Water Rating: 3.0
+images:
+  - 700x550xLG-WTG7520-7.5kg-Top-Load-Washing-Machine-main.jpg.pagespeed.ic.3pZMx80xWa.jpg
+  - 700x550xLG-WTG7520-7.5kg-Top-Load-Washing-Machine-tub.jpg.pagespeed.ic.PbMAPmwCkk.jpg
+  - 700x550xLG-WTG7520-7.5kg-Top-Load-Washing-Machine-top.jpg.pagespeed.ic.ShATzw_aLC.jpg
+  - 700x550xLG-WTG7520-7.5kg-Top-Load-Washing-Machine-open.jpg.pagespeed.ic.ZMGCZ-6H4W.jpg
+  - 700x550xLG-WTG7520-7.5kg-Top-Load-Washing-Machine-diagonal2.jpg.pagespeed.ic.91wAAerCKC.jpg
+  - LG-WTG7520-7.5kg-Top-Load-Washing-Machine-diagonal.jpg
+  - LG-WTG7520-7.5kg-Top-Load-Washing-Machine-closed.jpg
+---

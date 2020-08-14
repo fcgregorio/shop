@@ -1,0 +1,27 @@
+---
+layout: product
+name: Madrid Bed Frame
+brand: ~
+sku: MefB9082
+price: $1,029
+category: Beds
+subcategory: ~
+details:
+  Description:
+    Features: ~
+    Premium leather: ""
+    Modern curved aesthetic design: ""
+    Sturdy steel frame: ""
+    Heavy duty metal connectors: ""
+    Strong centre support beam: ""
+    Specifications: ~
+    Fits standard King-sized mattress: 183*203cm
+    Fits standard Queen-sized mattress: 153*203cm
+    Package Content: ~
+    1 x Bed Frame: ""
+    1 x Assembly Manual: ""
+  Additional Information:
+    MATERIAL: Leather
+images:
+  - b9082_1.jpg
+---

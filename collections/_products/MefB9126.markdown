@@ -1,0 +1,28 @@
+---
+layout: product
+name: Oslo Bed Frame
+brand: ~
+sku: MefB9126
+price: $1,189
+category: Beds
+subcategory: ~
+details:
+  Description:
+    Features: ~
+    Sturdy steel frame: ""
+    Strong side legs: ""
+    Solid wooden slat base: ""
+    Heavy duty metal connectors: ""
+    Adjustable centre support beam: ""
+    Smart assembly: ""
+    Specifications: ~
+    Fits standard King-sized mattress: 183*203cm
+    Fits standard Queen-sized mattress: 153*203cm
+    Package Content: ~
+    1 x Bed Frame: ""
+    1 x Assembly Manual: ""
+  Additional Information:
+    MATERIAL: Leather
+images:
+  - b9126.jpg
+---

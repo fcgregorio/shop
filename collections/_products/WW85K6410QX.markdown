@@ -1,0 +1,63 @@
+---
+layout: product
+name: Samsung WW85K6410QX 8.5kg AddWash Front Load Washer
+brand: Samsung
+sku: WW85K6410QX
+price: $995
+category: Washing Machines
+subcategory: Front Load Washing Machines
+details:
+  Description:
+    Washing Capacity: 8.5 kg
+    Design: ~
+    Body color: INOX
+    Door color: Crystal Gloss
+    Control Panel: LED
+    Feature: ~
+    AddWash: Yes
+    Bubble Soak: Yes
+    Bubble on/off: Yes
+    Child Lock: Yes
+    Delay End (hr): Yes
+    Drum Type: Diamond
+    Easy Iron: No
+    Motor: DIT
+    Prefer Mode - Cotton, Synthetics, Bedding, Daily & Dark: No
+    Quick Wash: 15 min
+    Smart Check: Yes
+    Smart Control (WiFi): No
+    Max Spin Speed (rpm): 1400RPM
+    Super Speed: Yes
+    Cycle: ~
+    Baby Care: Yes
+    Bedding: Yes
+    Cotton: Yes
+    Daily Wash: No
+    Dark Garment: Yes
+    Delicates / Hand Wash: Yes
+    Denim: No
+    E Cotton: Yes
+    Outdoor Care: Yes
+    Rinse + Spin: Yes
+    Specialty Cycles (cooking, gardening, hygiene, sports, kids, everyday): No
+    Sports Wear: No
+    Stain Away: No
+    Synthetics: Yes
+    Wool: Yes
+    Physical specification: ~
+    Net Weight: 71 Kg
+    Gross Dimension (WxHxD) including hoses: 850 x 600 x 660 mm
+    Warranty: ~
+    Domestic Warranty: 2 Years
+    Motor Warranty: 11 Years parts
+  Additional Information:
+    Warranty: 2 Years
+images: 
+  - Samsung-WW85K6410QX-8.5kg-AddWash-Front-Load-Washer-Main.jpg
+  - xSamsung-WW85K6410QX-8.5kg-AddWash-Front-Load-Washer-Bottom-Aspect.jpg.pagespeed.ic.vU580-NgN-.jpg
+  - Samsung-WW85K6410QX-8.5kg-AddWash-Front-Load-Washer-Open-Hatch.jpg
+  - Samsung-WW85K6410QX-8.5kg-AddWash-Front-Load-Washer-Open-Hatch-Angle.jpg
+  - 700x537xSamsung-WW85K6410QX-8.5kg-AddWash-Front-Load-Washer-Inner-Hatch.jpg.pagespeed.ic.3MUtp5Iayu.webp
+  - xSamsung-WW85K6410QX-8.5kg-AddWash-Front-Load-Washer-Front-Angle.jpg.pagespeed.ic.Skv9Bf7aOp.webp
+  - xSamsung-WW85K6410QX-8.5kg-AddWash-Front-Load-Washer-Close-Up-Hatch.jpg.pagespeed.ic.q4lgGSmp41.webp
+---

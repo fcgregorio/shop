@@ -1,0 +1,81 @@
+---
+layout: product
+name: LG WV5-1275W 7.5kg Front Load Washing Machine with Steam
+brand: LG
+sku: WV51275W
+price: $749
+category: Washing Machines
+subcategory: Front Load Washing Machines
+details:
+  Description:
+    DESIGN: ~
+    Finish: White
+    Control Type: Electronic Press Button
+    Lid / Door Material: Tempered Glass
+    Tinted Glass: Yes
+    Safety Lock: Yes
+    Trim Colour: White
+    Digital Display: Yes
+    Running Time: Yes
+    Status: Yes
+    PERFORMANCE: ~
+    Capacity: 7.5kg
+    Motor Type: Inverter Direct-Drive Motor
+    Maximum Spin Speed: 1200 RPM
+    Load Sensing: Yes
+    6 Motion Wash: Yes
+    A.I. Direct-Drive: Yes (Cotton, Cotton Eco, Mixed Fabric)
+    Steam: Yes (2 Cycles Only)
+    Stainless Steel Tub: Yes
+    Stainless Steel Lifters: Yes
+    Dispensers: Detergent / Softener / Bleach
+    Inlets: Hot & Cold
+    Auto-Balance: Yes
+    SMART FEATURES: ~
+    Smart Diagnosis: Yes
+    Smart THINQ: Yes (Wi-Fi)
+    Functions: Status View, Remote Start, Download Cycle, Notifications, Energy Monitoring, Works with Google Assistant²
+    PROGRAMS: ~
+    Programs: Cotton, Cotton Eco, Mixed Fabric, Easy Care, Quiet Wash, Allergy Care, Baby Care, Delicates, Hand/Wool, Sportswear, Duvet
+    Quick Wash: Quick 30 (2kg)
+    Download Cycle: Yes
+    Tub Clean: Yes
+    Child Lock: Yes
+    OPTIONS: ~
+    Variable Spin Speeds: 1200, 1000, 800, 600, 400, No Spin
+    Variable Temperature (°C): 95, 60, 40, 30, 20, Cold
+    Add Item: Yes
+    Delay Start: Yes (3-19 Hours)
+    Rinse Option: Yes (Rinse+)
+    Pre Wash: Yes
+    Intensive: Yes
+    COMPLIANCE: ~
+    Energy Consumption: 224 kWh / 365 Uses
+    Energy Rating: 4½ Star
+    WELS Water Consumption: 77L
+    WELS Water Rating: 4 Star C01766
+    WELS Wash Program: (Cotton Eco, 40°C, 1400 Spin)
+    DIMENSIONS: ~
+    Unit Width (mm): 600
+    Unit Depth (mm): 535
+    Unit Height (mm): 850
+    Packaging (W x D x H): 660mm x 580mm x 890mm
+    Unit Weight: 64kg
+    WARRANTY: ~
+    Washing Machine: 2 Years
+    Inverter Direct-Drive Motor: 10 Year Parts Warranty
+  Additional Information:
+    Wash Capacity: 7.5 kg
+    Energy Rating: 4.5
+    Warranty: 2 Years
+    Water Rating: 4.0
+    Steam: Yes
+    Spin Speed: 1200
+images: 
+  - LG-WV51275W-7.5kg-Front-Load-Washing-Machine-with-Steam.jpg
+  - LG-WV51275W-7.5kg-Front-Load-Washing-Machine-with-Steam-Open.jpg
+  - LG-WV51275W-7.5kg-Front-Load-Washing-Machine-with-Steam-Angle.jpg
+  - LG-WV51275W-7.5kg-Front-Load-Washing-Machine-with-Steam-Back.jpg
+  - LG-WV51275W-7.5kg-Front-Load-Washing-Machine-with-Steam-Dispenser.jpg
+  - LG-WV51275W-7.5kg-Front-Load-Washing-Machine-with-Steam-Controls.jpg
+---

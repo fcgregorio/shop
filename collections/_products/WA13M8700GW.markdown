@@ -1,0 +1,55 @@
+---
+layout: product
+name: Samsung WA13M8700GW 13kg Activ DualWash™ Top Load Washer
+brand: Samsung
+sku: WA13M8700GW
+price: $1,399
+category: Washing Machines
+subcategory: Top Load Washing Machines
+details:
+  Description:
+    Product Type: Top Load Washer
+    Washing Capacity: 13 kg
+    Design: ~
+    Body color: White
+    Door color: Temperd glass
+    Control Panel: Mid control LED
+    Performance: ~
+    Annual Energy Consumption - Warm (kWh/yr): "Warm Wash : 749kWh / Cold Wash : 186kWh"
+    Energy Rating (Stars): 3 Star
+    Water Consumption (per wash): 133 L
+    Water Efficiency (WELS) Rating: 4 Star - C01427
+    Feature: ~
+    Child Lock: Yes
+    Delay End (hr): Yes
+    Door Lock: Yes
+    Drum Type: Swirl Drum
+    Mist Shower: Yes
+    Motor: Inverter
+    Max Spin Speed (rpm): 800 rpm
+    Smart Check: Yes
+    Cycle: ~
+    Baby Care: Yes
+    Bedding: Yes
+    Delicates / Hand Wash: Yes
+    Quick Wash: Yes
+    Rinse + Spin: Yes
+    Towels: Yes
+    Water Saving: Yes
+    Physical specification: ~
+    Net Dimension (WxHxD): 686x1077x744 mm
+    Net Weight: 65 kg
+    Gross Dimension (WxHxD) including hoses: 686x1077x788 mm
+    Gross Depth Including Hose: 788mm
+    Warranty: ~
+    Domestic Warranty: 2 Years
+  Additional Information:
+    Warranty: 2 Years
+images:
+  - Samsung-WA13M8700GW-13kg-Activ-DualWash™-Top-Load-Washer-Main.jpg
+  - Samsung-WA13M8700GW-13kg-Activ-DualWash™-Top-Load-Washer-Angle.jpg
+  - Samsung-WA13M8700GW-13kg-Activ-DualWash™-Top-Load-Washer-Drum.jpg
+  - Samsung-WA13M8700GW-13kg-Activ-DualWash™-Top-Load-Washer-Control.jpg
+  - Samsung-WA13M8700GW-13kg-Activ-DualWash™-Top-Load-Washer-Side.jpg
+  - Samsung-WA13M8700GW-13kg-Activ-DualWash™-Top-Load-Washer-Tub.jpg
+---

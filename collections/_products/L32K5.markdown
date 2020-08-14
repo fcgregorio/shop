@@ -1,0 +1,39 @@
+---
+layout: product
+name: Chiq L32K5 32 inch Smart Full HD Android TV
+brand: Chiq
+sku: L32K5
+price: $399
+category: Televisions
+subcategory: Full HD Televisions
+details:
+  Description:
+    Type: Full HD Smart LED LCD TV
+    Size: 32 Inch
+    Resoultion: 1366x768
+    EAN: 6926130564813
+    Features: ~
+    Chromcast: Yes
+    Android: Yes
+    Netflix: Yes
+    HDR 10: Yes
+    Dolby Audio: Yes
+    Voice Control: Yes
+    Bluetooth: Yes
+    Wifi: Yes
+    Energy Rating: 5 Stars
+    Dimensions: ~
+    Product Dimensions (HxWxD): 481x725x179mm
+    Weight: 5 kg
+    Warranty: ~
+    Warranty: 3 Years
+  Additional Information:
+    Brand: Chiq
+    Energy Rating: 5
+    TV Screen Size: 31 – 40 inch
+    Warranty: 3 Years
+images:
+  - 700x550xChiq-L32K5-32-inch-Smart-Full-HD-Android-TV-Main.jpg.pagespeed.ic.NglPCz3bG3.webp
+  - Chiq-L32K5-32-inch-Smart-Full-HD-Android-TV-Angle.jpg
+  - Chiq-L32K5-32-inch-Smart-Full-HD-Android-TV-Back.jpg
+---

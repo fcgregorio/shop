@@ -1,0 +1,23 @@
+---
+layout: product
+name: Lamia 5 Pce Queen Suite
+brand: ~
+sku: BFL8510W2
+price: $2,245
+category: Bedside Tables
+subcategory: ~
+details:
+  Description:
+    Whitewash Painted Finish: ""
+    Solid Acacia Timber: ""
+    Timber Slat Base: ""
+    Dimensions: ~
+    Whitehaven 2 Drawer Bedside 60L x 45W x 55H: ""
+    Whitehaven 7 Drawer Tallboy 45L x 120W x 110H: ""
+    Whitehaven 6 Drawer Dressing Table/Mirror 45L x 140W x 180H: ""
+  Additional Information:
+    MATERIAL: Timber
+images:
+  - 3_3.png
+  - 2018_catalogue_appendix_28_august_2018-13_4.jpg
+---

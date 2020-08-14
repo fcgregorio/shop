@@ -1,0 +1,74 @@
+---
+layout: product
+name: LG WTG8521 8.5Kg Top Load Washing Machine
+brand: LG
+sku: WTG8521
+price: $849
+category: Washing Machines
+subcategory: Top Load Washing Machines
+details:
+  Description:
+    DESIGN: ~
+    Finish: White with Black Trim
+    Control Type: Electronic Press Button
+    Control Location: Front Panel
+    Lid / Door Material: Tempered Glass
+    Soft Closing: Yes
+    Safety Lock: (Auto Off Only)
+    Digital Display: Yes
+    Running Time: Yes
+    Status: Yes
+    PERFORMANCE: ~
+    Capacity: 8.5kg
+    Motor Type: Smart Inverter Motor
+    Maximum Spin Speed: 740 RPM
+    Load Sensing: Yes
+    Logic Control: Yes
+    TurboDrum®: Yes
+    No Agitator: Yes
+    Lint Filters: 2x Mesh Filters
+    Dispensers: Detergent / Softener / Bleach
+    Inlets: Hot & Cold
+    SMART FEATURES: ~
+    Smart Diagnosis®: Yes
+    PROGRAMS: ~
+    Programs: Cotton Wash, Pre Wash + Cotton, Eco Cotton, Wool, Quick Wash, Duvet, Silent Wash
+    Tub Clean: Yes
+    Child Lock: Yes
+    OPTIONS: ~
+    Wash Time: Yes (6)
+    Water Temperature: Yes (3)
+    Water Level: Yes (6)
+    Rinses: Yes (3)
+    Spin Level: Yes (3)
+    Soil Level: Yes (Heavy, Light)
+    Delay Start: Yes (3-18 Hours)
+    Soak: Yes
+    COMPLIANCE: ~
+    WELS Water Rating: 3 Star
+    WELS Water Consumption: 125L
+    Energy Consumption: 580 kWh / 365 Uses
+    Energy Consumption (Cold): 150 kWh / 365 Uses
+    Energy Rating: 2½ Star
+    WELS Wash Program: (Eco Cotton, Press Water Level for 3 Seconds, Hot Wash and Cold Wash) C01721
+    DIMENSIONS: ~
+    Unit Width (mm): 632
+    Unit Depth (mm): 690
+    Unit Height (mm): 1020
+    Height with Lid Open (mm): 1390
+    Packaging (W x D x H): 700mm x 770mm x 1070mm
+    Unit Weight: 50.5kg
+    WARRANTY: ~
+    Washing Machine: 2 Years
+    Smart Inverter Motor: Year Parts Warranty 2 years parts and labour + 8 years on Smart Inverter Motor (parts only).
+  Additional Information:
+    Warranty: 2 Years
+images:
+  - xLG-WTG8521-8.5Kg-Top-Load-Washing-Machine-Main.jpg.pagespeed.ic.gjHG0wMj-H.jpg
+  - xLG-WTG8521-8.5Kg-Top-Load-Washing-Machine-Angle.jpg.pagespeed.ic.TV_rcFmUky.jpg
+  - xLG-WTG8521-8.5Kg-Top-Load-Washing-Machine-Detergent-Dispenser.jpg.pagespeed.ic.YkpVc_ConU.jpg
+  - xLG-WTG8521-8.5Kg-Top-Load-Washing-Machine-Controls.jpg.pagespeed.ic.G4eDN-9M5Q.jpg
+  - LG-WTG8521-8.5Kg-Top-Load-Washing-Machine-Open-Angle.jpg
+  - LG-WTG8521-8.5Kg-Top-Load-Washing-Machine-Open-Drum.jpg
+  - LG-WTG8521-8.5Kg-Top-Load-Washing-Machine-Right-Angle.jpg
+---

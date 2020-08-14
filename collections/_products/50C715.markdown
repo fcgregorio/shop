@@ -1,0 +1,41 @@
+---
+layout: product
+name: TCL 50C715 50 Inch 4K Ultra HD Smart LED LCD Tv
+brand: STCL
+sku: 50C715
+price: $699
+category: Televisions
+subcategory: Ultra HD Televisions
+details:
+  Description:
+    Type: 4k Ultra HD Smart LED LCD Tv
+  Size: 50 Inch
+  Resolution: 3840 x 2160
+  Display Technology: LED
+  EAN: 9335024004811
+  Features: ~
+  Motion Refresh Rate: 60 Hz
+  Quantum Dot: Yes
+  Voice Control: Yes
+  Smart TV: Yes
+  Web Browser: Yes
+  Built in Apps: Netflix, Stan, Youtube
+  WiFi: Yes
+  Bluetooth: Yes
+  HDR: Yes
+  Dimensions: ~
+  Product Dimensions (HxWxD): 637x1114x74mm
+  Weight: 11.8Kg
+  Warranty: ~
+  Warranty: 3 Years
+  Additional Information:
+    Brand: TCL
+    TV Screen Size: 41 – 50 inch
+    Warranty: 3 Years
+images:
+  - TCL-50C715-50-Inch-4K-Ultra-HD-Smart-LED-LCD-Tv-Main.jpg
+  - TCL-50C715-50-Inch-4K-Ultra-HD-Smart-LED-LCD-Tv-Top.jpg
+  - TCL-50C715-50-Inch-4K-Ultra-HD-Smart-LED-LCD-Tv-Back.jpg
+  - TCL-50C715-50-Inch-4K-Ultra-HD-Smart-LED-LCD-Tv-Angle.jpg
+  - TCL-50C715-50-Inch-4K-Ultra-HD-Smart-LED-LCD-Tv-Back2.jpg
+---

@@ -1,0 +1,38 @@
+---
+layout: product
+name: Samsung DV80M5010IW 8kg Heat Pump Dryer
+brand: Samsung 
+sku: DV80M5010IW
+price: $1,299
+category: Dryers
+subcategory: Heat Pump Dryers
+details:
+  Description:
+		Model: DV80M5010IW
+		Type: Heat Pump Dryer
+		Colour: White
+		Capacity: 8kg
+		Features: ~
+		Number of Programs: 14
+		Reversible Door: Yes
+		Delicate Settings: Yes
+		Child Lock: Yes
+		Stackable: Yes
+		Energy Rating: 7 Star
+		EAN: 8806088829036
+		Dimensions: ~	
+		Product Dimensions (WxHxD): 600x850x695mm
+		Weight: 50Kg
+		Warranty: ~	
+		Warranty: 2 Years
+  Additional Information:
+	  Brand: Samsung
+		Energy Rating: 7
+		Price Ranges: $1000 – $2000
+		Warranty: 2 Years
+images: 
+	- Samsung-DV80M5010IW-8kg-Heat-Pump-Dryer-Main.jpg
+	- Samsung-DV80M5010IW-8kg-Heat-Pump-Dryer-Side.jpg
+	- Samsung-DV80M5010IW-8kg-Heat-Pump-Dryer-Open.jpg
+	- Samsung-DV80M5010IW-8kg-Heat-Pump-Dryer-Diagonal-Open.jpg
+---

@@ -1,0 +1,82 @@
+---
+layout: product
+name: LG WV71409W 9kg Front Load Washing Machine with Steam+
+brand: LG
+sku: WV71409W
+price: $1,049
+category: Washing Machines
+subcategory: Front Load Washing Machines
+details:
+  Description:
+    DESIGN: ~ 
+    Finish: White
+    Control Type: Electronic Press Button
+    Lid / Door Material: Tempered Glass
+    Tinted Glass: Yes
+    Safety Lock: Yes
+    Trim Colour: Silver
+    Digital Display: Yes
+    Running Time: Yes
+    Status: Yes
+    LG TWIN Wash® Compatible: Yes
+    PERFORMANCE: ~
+    Capacity: 9kg
+    Motor Type: Inverter Direct-Drive Motor
+    Maximum Spin Speed: 1400 RPM
+    Load Sensing: Yes
+    Turbo Clean™: Yes
+    6 Motion® Wash: Yes
+    A.I. Direct-Drive™: Yes
+    Steam: Yes (Steam+)
+    Stainless Steel Tub: Yes
+    Stainless Steel Lifters: Yes
+    Dispensers: Detergent / Softener / Bleach
+    Inlets: Hot & Cold
+    Auto-Balance: Yes
+    SMART FEATURES: ~
+    Smart Diagnosis: Yes
+    Smart THINQ: Yes (Wi-Fi)
+    Functions: Status View, Remote Start, Download Cycle, Notifications, Energy Monitoring, Works with Google Assistant²
+    PROGRAMS: ~
+    Programs: Cotton, Cotton Eco, Mixed Fabric, Easy Care, Quiet Wash, Allergy Care, Delicates, Hand/Wool, Sportswear, Duvet
+    Quick Wash: Quick 14 (2kg), TurboClean 59 (4.5kg)
+    Download Cycle¹: Yes
+    Tub Clean: Yes
+    Child Lock: Yes
+    OPTIONS: ~
+    Variable Spin Speeds: 1400, 1200, 1000, 800, 400, No Spin
+    Variable Temperature (°C): 95, 60, 40, 30, 20, Cold
+    Add Item: Yes
+    Delay Start: Yes (3-19 Hours)
+    Steam: Yes
+    Wrinkle Care: Yes
+    Rinse Option: Yes (Rinse+)
+    Pre Wash: Yes
+    Intensive: Yes
+    COMPLIANCE: ~
+    EAN: 8806098587070
+    Energy Consumption: 284 kWh / 365 Uses
+    Energy Rating: 4.5 Star
+    WELS Water Consumption: 77L
+    WELS Water Rating: 4.5 Star C01745
+    WELS Wash Program: (Cotton Eco, 40°C, 1400 Spin)
+    DIMENSIONS: ~
+    Unit Width (mm): 600
+    Unit Depth (mm): 605
+    Unit Height (mm): 850
+    Packaging (W x D x H): 660mm x 660mm x 890mm
+    Unit Weight: 70kg
+    WARRANTY: ~
+    Washing Machine: 2 Years
+    Inverter Direct-Drive Motor: 10 Year Parts Warranty 2 years parts and labour + 8 years on Inverter Direct-Drive Motor (parts only).
+  Additional Information:
+    Warranty: 2 Years
+images: 
+  - LG-WV71409W-9kg-Front-Load-Washing-Machine-with-Steam-Main.jpg
+  - LG-WV71409W-9kg-Front-Load-Washing-Machine-with-Steam-Control.jpg
+  - LG-WV71409W-9kg-Front-Load-Washing-Machine-with-Steam-Angle.jpg
+  - LG-WV71409W-9kg-Front-Load-Washing-Machine-with-Steam-Drum.jpg
+  - LG-WV71409W-9kg-Front-Load-Washing-Machine-with-Steam-Open.jpg
+  - LG-WV71409W-9kg-Front-Load-Washing-Machine-with-Steam-Side.jpg
+  - LG-WV71409W-9kg-Front-Load-Washing-Machine-with-Steam-Tray.jpg
+---

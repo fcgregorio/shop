@@ -1,0 +1,50 @@
+---
+layout: product
+name: Fisher And Paykel WA1068G2 10kg Top Loader Washing Machine
+brand: Fisher & Paykel
+sku: WA1068G2
+price: $1,199
+category: Washing Machines
+subcategory: Top Load Washing Machines
+details:
+  Description:
+    Model: WA1068G2
+    Capacity: 10kg
+    Colour / Finish: White
+    Type: Top Load Washing Machine
+    Performance: ~
+    Max Spin Speed: 1100RPM
+    No of Spin Speeds: 3
+    Smart Drive: Yes
+    Load Sensing: Yes
+    Consumption: ~
+    Energy Rating: 4
+    Water Rating: 3.5
+    Features: ~
+    Agitator: Flexible Finned
+    Out-Of-Balance Correction: Yes
+    Auto-Lint Disposal: Yes
+    Automatic Water Level: Yes
+    Delay start: Yes
+    Fabric softener dispenser: Yes
+    Lid lock: Yes
+    Soft Close Lid: Yes
+    Number of Wash Cycles: Yes
+    Dimensions: ~
+    Product Dimensions (DxHxW): 700x1060-1090x685mm
+    Height with Lid Open: 1440-1470mm
+    Warranty: ~
+    Warranty: 2 Years
+  Additional Information:
+    Brand: Fisher & Paykel
+    Energy Rating: 4
+    Price Ranges: $1000 – $2000
+    Colour: White
+    Wash Capacity: 10.0 kg
+    Water Rating: 3.5
+    Warranty: 2 Years
+images:
+  - Fisher-Paykel-WA1068G2-Top-Loader-Washing-Machine-10kg-main.jpg
+  - Fisher-Paykel-WA1068G2-Top-Loader-Washing-Machine-10kg-top.jpg
+  - Fisher-Paykel-WA1068G2-Top-Loader-Washing-Machine-10kg-open.jpg
+---

@@ -1,0 +1,48 @@
+---
+layout: product
+name: CHIQ L40H4 40″ LED FHD TV
+brand: Chiq
+sku: L40H4
+price: $399
+category: Televisions
+subcategory: Full HD Televisions
+details:
+  Description:
+    Display: ~
+    Resolution: 1920 x 1080
+    Contrast ratio: 4000
+    View Angle: 170°(H)/170°(V)
+    Response Time: 8ms
+    Terminals: ~
+    HDMI: x 2
+    USB: x 2
+    AV: ~
+    RF: ~
+    SPDIF(OPTICAL): ~
+    Functions: ~
+    EPG: ~
+    Teletext: ~
+    Sleep Timer: ~
+    Parental Lock: ~
+    Hotel Mode: ~
+    Audio: ~
+    Audio Output: 2 x 8 WATT
+    Dolby Digital Plus: ~
+    Wall Mounting: ~
+    VESA: 200 x 200mm
+    Dimensions (W x D x H) mm: ~
+    Without Stand: 904 x 80 x 515
+    With Stand: 904 x 180 x 562
+    Package: 1025 x 135 x 635
+    Weight: Net TBD kg / Gross TBD kg
+  Additional Information:
+    Dimensions: 103 × 14 × 64 cm
+    Energy Rating: 5
+    Warranty: 3 Years
+images:
+  - Chiq-40-inch-FHD-LED-TV-Main.jpg
+  - Chiq-40-inch-FHD-LED-TV-2.jpg
+  - Chiq-40-inch-FHD-LED-TV-Angle-View.jpg
+  - Chiq-40-inch-FHD-LED-TV-Back.jpg
+  - Chiq-40-inch-FHD-LED-TV-Side-View.jpg
+---

@@ -1,0 +1,70 @@
+---
+layout: product
+name: Beko BFL1010W 10 kg Front Loading Washing Machine
+brand: Beko 
+sku: BFL1010W
+price: $949
+category: Washing Machines
+subcategory: Front Load Washing Machines
+details:
+  Description:
+    General: ~
+    Product Title: 10 kg Front Loading Washing Machine
+    Design Features: ~ 
+    Colour: White
+    Door Finish: Dark Grey
+    Door opening angle: 170°
+    Main Features: ~ 
+    Max loading capacity: 10 kg
+    Maximum Spin Speed: 1400 rpm
+    Performance: ~ 
+    WELS water rating: 4.5 Stars
+    Water consumption: 86 litres
+    Energy rating: 4 Stars
+    Energy consumption: 403 kWh
+    Technology: ~  
+    Motor Type: Prosmart™ Inverter
+    Drum Technology: Aquawave™
+    Duo Spray™ Technology: Yes
+    Out of Balance Detection: Yes
+    Water pressure sensor: Yes
+    Control Features: ~  
+    Display Type: White Text LED
+    Remaining Time Indicator: Yes
+    Delay timer: Yes
+    Time Delay: 0-24h
+    Temperature Selection: Yes
+    Cold Wash Option: Yes
+    Water Control System: Automatic
+    Liquid Detergent Compartment: Yes
+    Water inlet type: Single
+    Add Garment: Yes
+    Wash Programs: ~ 
+    Number of programs: 15
+    Wash programs: Cottons, CottonsEco, Synthetics, Daily/Quick, Wool/Handwash, Delicates, Download Program, Auto Program, Shirts, Bedding & Blanket, Anti-Allergy+, Stain Expert™, CoolClean™, Rinse Spin+Drain
+    Auxiliary Functions: Pet Hair Removal, SteamCure Fast+, AntiCrease+, Drum Clean, Night Mode
+    Safety: ~  
+    Child Lock: Yes
+    Overflow Safety: Yes
+    Water Safety System: Overflow Safety
+    Dimensions & Weights: ~  
+    Unpacked Height: 840 mm
+    Unpacked Width: 600 mm
+    Unpacked Depth: 670 mm
+    Unpacked Weight: 76 Kg
+    Packed Height: 880 mm
+    Packed Width: 650 mm
+    Packed Depth: 685 mm
+    Packed Weight: 77 Kg
+    Warranty: ~  
+    Manufacturers Warranty: 2 Years + 3 Years by Registration
+    10 Year Prosmart Inverter Motor Warranty: Yes
+  Additional Information:
+    Weight: 77 kg
+    Dimensions: 65 × 68.5 × 88 cm
+images: 
+  - Beko-BFL1010W-10-kg-Front-Loading-Washing-Machine-Main.jpg
+  - Beko-BFL1010W-10-kg-Front-Loading-Washing-Machine-Angle.jpg
+  - Beko-BFL1010W-10-kg-Front-Loading-Washing-Machine-Drum.jpg
+  - Beko-BFL1010W-10-kg-Front-Loading-Washing-Machine-Lifestyle.jpg
+---

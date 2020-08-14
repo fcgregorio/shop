@@ -1,0 +1,33 @@
+---
+layout: product
+name: Fisher and Paykel DH9060P1 9Kg Heat Pump Condensing Dryer
+brand: Fisher and Paykel
+sku: DH9060P1
+price: $1,699
+category: Dryers
+subcategory: Condenser Dryers
+details:
+  Description:
+    Model: DH9060P1
+    Type: Heat Pump Condensing Dryer
+    Capacity: 9Kg
+    Colour: White
+    Features: ~
+    Drying Programs: 13
+    Energy Rating: 8 Star
+    Auto Sensing: Yes
+    Drying Rack: Yes
+    Temperature Settings: 4
+    Dimensions: ~
+    Product Dimensions (HxWxD): 850x600x670mm
+    Warranty: ~
+    Warranty: 2 Years
+  Additional Information:
+    Brand: Fisher & Paykel
+    Energy Rating: 8
+    Warranty: 2 Years
+    Colour: White
+images:
+  - Fisher-and-Paykel-DH9060P1-9Kg-Heat-Pump-Condensing-Dryer-main.jpg
+  - Fisher-and-Paykel-DH9060P1-9Kg-Heat-Pump-Condensing-Dryer-dispenser.jpg
+---

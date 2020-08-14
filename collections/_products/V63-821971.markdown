@@ -1,0 +1,37 @@
+---
+layout: product
+name: Paradise Sofa Chair 360 Recliner Leather
+brand: ~
+sku: V63-821971
+price: $1,059
+category: Lounges/Sofas
+subcategory: ~
+details:
+  Description:
+    Features and Specifications: ~
+    Material: Premium PU leather, high-resilience, high-quality sponge padding, and sturdy steel base
+    Colour: Black
+    Contoured seating: ""
+    Sturdy construction: ""
+    Adjustable leg and backrests: ""
+    360° swivel capability: ""
+    8-point heating: ""
+    Adjustable back and leg rest: ""
+    8-point heating and massage function with remote control: ""
+    2 cup holders: ""
+    Super-wide armrest: ""
+    Dimensions: W82 x D96 x H106 cm
+    Length (unfolded) 163 cm: ""
+    Weight capacity: 150 kg
+    Accessories: Remote control, power plug, and user manual
+    Package Content: ~
+    1 x Paradise Sofa Chair Recliner 360 Degree Swivel PU Leather Lounge 8 Point Heated: ""
+  Additional Information:
+    MATERIAL: Leather
+images:
+  - v63-821971-01_3.jpg
+  - v63-821971-02_3.jpg
+  - v63-821971-03_3.jpg
+  - v63-821971-04_4.jpg
+  - v63-821971-06_4.jpg
+---

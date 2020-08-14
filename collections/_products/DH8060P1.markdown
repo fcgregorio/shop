@@ -1,0 +1,73 @@
+---
+layout: product
+name: Fisher & Paykel DH8060P1 8kg Heat Pump Condensing Dryer
+brand: Fisher & Paykel
+sku: DH8060P1
+price: $1,599
+category: Dryers
+subcategory: Heat Pump Dryers
+details:
+  Description:
+    Product Type: Heat Pump Condensing Dryer
+    Capacity: 8 kg
+    PERFORMANCE: ~
+    Heat Pump Technology: Yes
+    Auto sensing: Yes
+    Condensing: Yes
+    Dryness levels: 5
+    Reverse tumbling: Sheets Cycle
+    Temperature settings: 4
+    Timed dry: Yes
+    DRY FEATURES: ~
+    Delay start: 5, 15, 30 mins, 1-12 hours
+    Drum Interior Light: Yes
+    Drying rack: Yes
+    Easy access lint filter: Yes
+    End of cycle signal: Yes
+    Keylock: Yes
+    Lint filter indicator: Yes
+    Progress indicator: Yes
+    SmartTouch™ Control Dial: Yes
+    Stainless steel drum: Yes
+    Time to go indicator: Yes
+    Wrinkle free option: Yes
+    DRY CYCLES: ~
+    Delicate: Yes
+    Bulky: Yes
+    Air Dry: Yes
+    Easy Iron: Yes
+    Everyday: Yes
+    Freshen: Yes
+    Heavy: Yes
+    Rack Dry: Yes
+    Sheets: Yes
+    Sports: Yes
+    Timed dry: 30,40,50... 150 mins
+    Towels: Yes
+    Wool: Yes
+    ENERGY: ~
+    Star Energy: 7
+    Consumption: 155 kWh/52 Uses
+    DIMENSIONS: ~
+    Product: ~
+    Height (mm): 850
+    Width (mm): 600
+    Depth (mm): 645
+    SHIPPING: ~
+    Height (mm): 890
+    Width (mm): 670
+    Depth (mm): 710
+    Weight: 35
+    WARRANTY: ~
+    Comprehensive manufacturers warranty: 2 Years
+  Additional Information:
+    Weight: 35 kg
+    Dimensions: 67 × 71 × 89 cm
+    Energy Rating: 7
+    Warranty: 2 Years
+images:
+  - Fisher-Paykel-DH8060P1-8kg-Heat-Pump-Condensing-Dryer-Main.jpg
+  - Fisher-Paykel-DH8060P1-8kg-Heat-Pump-Condensing-Dryer-Cabinet.jpg
+  - Fisher-Paykel-DH8060P1-8kg-Heat-Pump-Condensing-Dryer-Life-Control.jpg
+  - Fisher-Paykel-DH8060P1-8kg-Heat-Pump-Condensing-Dryer-Controls.jpg
+---

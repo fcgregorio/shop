@@ -1,0 +1,59 @@
+---
+layout: product
+name: TCL 40S6800FS Series S 40 Inch Full HD TV AI-IN
+brand: TCL
+sku: 40S6800FS
+price: $449
+category: Televisions
+subcategory: Full HD Televisions
+details:
+  Description:
+    Product Type: Full HD TV AI-IN
+    Features: ~
+    Size: 40 Inch
+    Full High Definition: YES
+    Resolution: 1920 x 1080
+    Viewing Angle: 178° H/178° V
+    Contrast Ration: 4000:01:00
+    HDR Via USB and Streaming: Yes
+    Clear Motion Rate: 100
+    Brightness: 250 nits
+    Functions: ~
+    Artificial Intelligence – Google Assistant: YEs
+    Android TV: Yes
+    Google PLay Store: Yes
+    Chromecast built-in: Yes
+    Voice Search* : Yes
+    Netflix / Stan / YouTube: Yes
+    Freeview Plus certified: Yes
+    MPEG2 / MPEG4 DVB-T: Yes
+    Connecticity: ~
+    HDMI Inputs x: 2 (1.4a)
+    USB 2.0 x: 2
+    A/V IN: Yes
+    Headphone Output: Yes
+    2.4GHz WiFi / Ethernet: Yes
+    Optical SPDIF Output / HDMI ARC: Yes
+    Bluetooth: Yes
+    Audio: ~
+    Dolby Audio: Yes
+    Audio Power Output: 2 x8W
+    Dimensions: ~
+    Dimensions with Stand (mm): 905.1(W) x 577(H) x 185.4(D)
+    Dimensions W/Out Stand (mm): 905.1(W) x 518.4(H) x 74.4(D)
+    Weight with Stand (kg): 6.1
+    Weight W/Out Stand (kg): 6
+    VESA Mount (mm): 100 X 100 (M6 Screw Size)
+    Warranty: ~
+    Domestic Warranty: 3 Years
+  Additional Information:
+    Brand: TCL
+    Price Ranges: $200 – $500
+    TV Screen Size: 31 – 40 inch
+    Warranty: 3 Years
+images:
+  - xTCL-40S6800FS-Series-S-40-Inch-Full-HD-TV-AI-IN-Main.jpg.pagespeed.ic.jCBZKF_qQX.webp
+  - xTCL-40S6800FS-Series-S-40-Inch-Full-HD-TV-AI-IN-Angle.jpg.pagespeed.ic.uV3B2wyRE0.webp
+  - xTCL-40S6800FS-Series-S-40-Inch-Full-HD-TV-AI-IN-Stand.jpg.pagespeed.ic.8CkNNj0Wb7.webp
+  - xTCL-40S6800FS-Series-S-40-Inch-Full-HD-TV-AI-IN-Frame.jpg.pagespeed.ic.ju525A_Fnd.webp
+---

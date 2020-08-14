@@ -1,0 +1,72 @@
+---
+layout: product
+name: Fisher Paykel WH8060J3 8KG Front Load Washing Machine
+brand: Fisher & Paykel
+sku: WH8060J3
+price: $799
+category: Washing Machines
+subcategory: Front Load Washing Machines
+details:
+  Description:
+    TYPE: Front Load Washer
+    Performance: ~
+    Detergent: High efficiency
+    Max spin speed: 1200rpm
+    SmartDrive™ Technology: Yes
+    Spin speeds: 3
+    Vortex Wash: Yes
+    Wash cycles: 9
+    Wash Features: ~
+    Anti-fungal door gasket: Yes
+    Auto out of balance correction: Yes
+    Controlled cold: Yes
+    Customise cycle: Yes
+    Delay start: Yes
+    Detergent dispenser: Yes
+    Eco: Yes
+    Excess foam detection: Yes
+    Extra rinse option: Yes
+    Fabric softener dispenser: Yes
+    Flood protection: Yes
+    Keylock: Yes
+    No spin: Yes
+    Pre Wash: Yes
+    SmartTouch™ Control Dial: Yes
+    Stainless steel drum: Yes
+    Time to go indicator: Yes
+    Water temperature controls: 5
+    Wash Cycles: ~
+    Cottons: Yes
+    Delicate: Yes
+    Drum Clean: Yes
+    Easy Iron: Yes
+    Everyday: Yes
+    Heavy: Yes
+    Quick: Yes
+    Rinse: Yes
+    Spin: Yes
+    Consumption: ~
+    Annual Energy Consumption: 310kWh/year
+    Energy rating: 4 star
+    Water rating : 4.5 star
+    Water usage (per wash cycle): 67LL
+    Dimensions: ~
+    Depth: 590mm
+    Height: 850mm
+    Total capacity: 8kg
+    Width: 600mm
+    Warranty: ~
+    Domestic Warranty: 2 Years
+  Additional Information:
+    Brand: Fisher & Paykel
+    Price Ranges: $800 – $1000
+    Energy Rating: 4
+    Water Rating: 4.5
+    Warranty: 2 Years
+    Wash Capacity: 8.0 kg
+images: 
+  - Fisher-Paykel-WH8060J3-Front-Load-Washing-Machine-Main.jpg
+  - Fisher-Paykel-WH8060J3-Front-Load-Washing-Machine-Lifestyle.jpg
+  - Fisher-Paykel-WH8060J3-Front-Load-Washing-Machine-Angle.jpg
+  - Fisher-Paykel-WH8060J3-Front-Load-Washing-Machine-Controls.jpg
+---

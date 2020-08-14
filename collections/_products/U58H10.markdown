@@ -1,0 +1,40 @@
+---
+layout: product
+name: Chiq U58H10 58 Inch Ultra HD Smart LED Tv
+brand: Chiq
+sku: U58H10
+price: $899
+category: Televisions
+subcategory: Ultra HD Televisions
+details:
+  Description:
+    Type: 4K Ultra HD Smart LED LCD TV
+    Size: 58 Inch
+    Resolution: 3840 x 2160
+    EAN: 6926130564936
+    Features: ~
+    Chromecast: Yes
+    Android: Yes
+    Netflix: Yes
+    HDR 10: Yes
+    Dolby Audio: Yes
+    Voice Control: Yes
+    Bluetooth: Yes
+    Wifi: Yes
+    Energy Rating: 4.5 Stars
+    Dimensions: ~
+    Product Dimensions (HxWxD): 806x1293x213mm
+    Weight: 18.3 kg
+    Warranty: ~
+    Warranty: 3 Years
+  Additional Information:
+    Brand: ChiQ
+    Energy Rating: 4.5
+    TV Screen Size: 51 -60 inch
+    Warranty: 3 Years
+images:
+  - Chiq-U58H10-58-Inch-Ultra-HD-Smart-LED-Tv-Main.jpg
+  - Chiq-U58H10-58-Inch-Ultra-HD-Smart-LED-Tv-Android.jpg
+  - Chiq-U58H10-58-Inch-Ultra-HD-Smart-LED-Tv-top.jpg
+  - Chiq-U58H10-58-Inch-Ultra-HD-Smart-LED-Tv-Side.jpg
+---

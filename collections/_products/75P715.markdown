@@ -1,0 +1,40 @@
+---
+layout: product
+name: TCL 75P715 75inch Ultra HD Smart LED LCD Tv
+brand: TCL
+sku: 75P715
+price: $1,999
+category: Televisions
+subcategory: Ultra HD Televisions
+details:
+  Description:
+    Size: 75 inch
+    Type: 4k Ultra HD Smart LED LCD TV
+    Resolution: 3840 x 2160
+    EAN: 9335024004835
+    Features: ~
+    Processor: Quad Core
+    Voice Control: Yes
+    Web Browser: Yes
+    HDR: 10+
+    Built in Apps: Netflix, Stan, Youtube
+    Google Assistant: Yes
+    Alexa compatible: Yes
+    Wifi: Yes
+    Bluetooth: Yes
+    AI Intelligence: Yes
+    Dimensions: ~
+    Product Dimensions (HxWxD): 1031x1671x403mm
+    Weight: 29.20Kg
+    Warranty: ~
+    Warranty: 3 Years
+  Additional Information:
+    Brand: TCL
+    TV Screen Size: 71 – 80 inch
+    Warranty: 3 Years
+images:
+    - download.webp
+    - download (1).webp
+    - TCL-75P715-75inch-Ultra-HD-Smart-LED-LCD-Tv-angle.jpg
+    - TCL-75P715-75inch-Ultra-HD-Smart-LED-LCD-Tv-back.jpg
+---

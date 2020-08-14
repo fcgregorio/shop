@@ -1,0 +1,73 @@
+---
+layout: product
+name: Beko BFL8510W 8.5 Kg Front Load Washer
+brand: Beko
+sku: BFL8510W
+price: $749
+category: Washing Machines
+subcategory: Front Load Washing Machines
+details:
+  Description:
+    General: ~
+    Product Title: 8.5 kg Front Loading Washing Machine
+    Design Features: ~
+    Colour: White
+    Door Finish: Dark Grey
+    Door opening angle: 170°
+    Main Features: ~
+    Max loading capacity: 8.5 kg
+    Maximum Spin Speed: 1400 rpm
+    Performance: ~
+    WELS water rating: 4.5 Stars CO1393
+    Water consumption: 73 litres
+    Energy rating: 4 Stars
+    Energy consumption: 350 kWh
+    Technology: ~
+    Motor Type: Prosmart™ Inverter
+    Drum Technology: Aquawave™
+    Duo Spray™ technology: Yes
+    Out of Balance Detection: Yes
+    Water pressure sensor: Yes
+    Control Features: ~
+    Display Type: White Text LED
+    Reamaining time indicator: Yes
+    Delay Timer: Yes
+    Time Delay: 0-24h
+    Temprature Selection: Yes
+    Cold Wash Option: Yes
+    Water Control System: Automatic
+    Liquid Detergent Compartment: Yes
+    Water inlet type: Single
+    Add Xtra: Yes
+    Wash Programs: ~
+    Number of programs: 15
+    Wash Programs: Cottons, CottonsEco, Synthetics, Daily/Quick, Wool/Handwash, Delicates, Download Program, Auto Program, Shirts, Bedding & Blanket, Anti-Allergy+, Stain Expert, CoolClean, Rinse, Spin+Drain
+    Auxiliary Functions: Pet Hair Removal, Steam, Fast+, AntiCrease+, Drum Clean, Night Mode
+    Safety: ~
+    Child Lock: Yes
+    Water Safety System: Overflow Safety
+    Dimensions & Weights: ~
+    Unpacked Height: 840 mm
+    Unpacked width: 600 mm
+    Unpacked depth: 640 mm
+    Unpacked weight: 71 kilograms
+    Packed height: 880 mm
+    Packed width: 650 mm
+    Packed depth: 600 mm
+    Packed weight: 72 kilograms
+    WARRANTY: ~
+    Manafacturers Warranty: 2 Years + 3 Years by Registration
+    10 Year Prosmart Inverter Motor Warranty: Yes
+  Additional Information:
+    Weight: 72 kg
+    Dimensions: 65 × 60 × 88 cm
+    Energy Rating: 4
+    Water Rating: 4.5
+images:
+  - xBeko-BFL8510W-8.5Kg-Front-Load-Washer-Main.jpg.pagespeed.ic.G3-43A1i5D.webp
+  - xBeko-BFL8510W-8.5Kg-Front-Load-Washer-Door-Open.jpg.pagespeed.ic.QV1al9zJx8.webp
+  - xBeko-BFL8510W-8.5Kg-Front-Load-Washer-Angle.jpg.pagespeed.ic.lz-pt4eGwo.webp
+  - xBeko-BFL8510W-8.5Kg-Front-Load-Washer-Controls.jpg.pagespeed.ic.yuGy78K9Wk.webp
+  - xBeko-BFL8510W-8.5Kg-Front-Load-Washer-Detergent-Tray.jpg.pagespeed.ic.7sxUwp6X06.webp
+  - Beko-BFL8510W-8.5Kg-Front-Load-Washer-Drum.jpg
+---

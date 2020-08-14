@@ -1,0 +1,34 @@
+---
+layout: product
+name: Fisher and Paykel DE7060G2 7Kg Vented Dryer
+brand: Fisher and Paykel
+sku: DE7060G2
+price: $749
+category: Dryers
+subcategory: Vented Dryers
+details:
+  Description:
+    Model: DE7060G2
+    Type: Vented Dryer
+    Capacity: 7Kg
+    Colour: White
+    Features: ~
+    Drying Programs: 6
+    Energy Rating: 2
+    Auto Sensing: Yes
+    Drying Rack: Yes
+    Temperature Settings: 4
+    Wrinkle Free Option: Yes
+    Dimensions: ~
+    Product Dimensions (DxHxW): 571x825x600mm
+    Warranty: ~
+    Warranty: 2 Years
+  Additional Information:
+    Brand: Fisher & Paykel
+    Colour: White
+    Energy Rating: 2
+    Warranty: 2 Years
+images:
+  - Fisher-and-Paykel-DE7060G2-7Kg-Vented-Dryer-main.jpg
+  - Fisher-and-Paykel-DE7060G2-7Kg-Vented-Dryer-open.jpg
+---
