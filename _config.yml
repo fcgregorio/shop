@@ -1,9 +1,7 @@
 title: Zahabzze
 email: sales@zahabzze.com
 description: >-
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Zahabzze is the perfect store for all your furniture and appliance needs. We offer a vast catalog of items at very affordable prices! No more spending hours driving from store to store trying to find what you want. Now, you can find everything here at Zahabzze!
 collections_dir: collections
 collections:
   categories:
