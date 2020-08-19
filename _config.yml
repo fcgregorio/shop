@@ -14,3 +14,8 @@ baseurl: /
 
 sass:
   style: compact
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
